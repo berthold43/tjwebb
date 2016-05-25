@@ -1,0 +1,89 @@
+<% 
+include_once "inskrivaren_form.php";
+
+if (eregi("Mozilla",getenv("HTTP_USER_AGENT"))) {
+    if (eregi("MSIE",getenv("HTTP_USER_AGENT"))) {
+        $browser = "MSIE";
+        $wrap = "wrap=\"virtual\"";
+    } else {
+        $browser = "Netscape";
+        $wrap = "wrap=\"soft\"";
+    }
+}
+
+if (!isset($skridskonet) || $skridskonet == 0) {
+    $skridskonet = 5;
+}
+
+if (!isset($_urval)) {
+    $_urval = $skridskonet;
+}
+
+%>
+<!-- <h1>Inskrivaren</h1> -->
+<html>
+
+<head>
+<title></title>
+<style type="text/css"> 
+body, td, li, p { font-family: verdana, arial, helvetica, sans-serif; font-size: 9pt; }
+a:link {color:#0000FF; text-decoration:none}
+a:visited {color:#333399; text-decoration:none}
+a:hover {color:#FFA500; text-decoration:none} 
+
+
+ // .navcell // { // // background-color: #ffffcc; // } // // .padcell // { // // // background-color: #ddFF99; // padding: 0pt; // } .knappcell { font-size: 8pt; background-color: #ece6e6; padding-left: 4pt; padding-top: 1pt; padding-right: 1pt; padding-bottom: 1pt; border: solid 1px #cc3333; } .flagga { vertical-align: top; } .huvudtab { background-color: #cccccc; } td.textcell { background-color: #ffffff; border: solid 1px #000000; font-size: 9pt; padding: 7pt; } .links { font-size: 8pt; } h1 { font-size: 20pt; font-weight: 500; } h2 { font-size: 16pt; font-weight: 500; } h3 { font-size: 12pt; font-weight: 500; } h4 { font-size: 10pt; font-weight: 500; } th { font-size: 10pt; font-weight: bold; font-family: verdana, arial, helvetica, sans-serif; } .red { color: #ff3333; } .isnyttmeny { background-color: #ece6e6; padding-left: 4pt; padding-top: 1pt; padding-right: 1pt; padding-bottom: 1pt; border: solid 1px #cc3333; } .navbarfet, .navrubrik { font-weight: bold; } .navtxt { font-size: 8pt; } .uddarad { background-color: #ffffff; } .jamnrad { background-color: #eeeeee; } .rubrad { background-color: #cccccc; } .aktuelltfettxt { font-weight: bold; } .aktuelltrubrik { font-size: 11pt; font-weight: bold; color: #ff0000; } 
+// --> </style>
+</head>
+
+<body TOPMARGIN="0" LEFTMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0" bgcolor="#FFFFFF">
+<!--webbot bot="Include" U-Include="../../headers/isinformation.htm" TAG="BODY" startspan -->
+
+<table align="center" border="0" width="750" cellspacing="0" cellpadding="0">
+  <TR>
+    <TD width="550"><P align=center><FONT face=Verdana size=5>Skånes Isseglarklubb - 
+      SIK</FONT></P></td><td width="150"><A href="../../default.htm"><IMG height="82" alt="Skånes Isseglarklubb - SIK" src="../../images/logo.jpg" width="150" border="0"></A></TD></tr> 
+  <tr>
+    <td width="800" colspan="2"></td>
+  </tr>
+  <tr>
+    <td width="800" bgcolor="#E6E6E6" align="center" valign="middle" colspan="2" height="20"><font
+    face="Verdana" size="1"><strong><a href="../default.htm">Isinformation</a></strong>
+    | <a href="../../skridskosegling/default.htm">Skridskosegling</a> | <a
+    href="../../langfardsskridsko/default.htm">Långfärdsskridsko</a> | <a
+    href="../../sommaraktiviteter/default.htm">Sommaraktiviteter</a> | <a
+    href="../../om_sik/default.htm">Om SIK</a> | <a href="../../vanliga_fragor/default.htm">Vanliga frågor</a>
+    | <a href="../../kontakta_oss/default.htm">Kontakt</a></font></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" align="center" valign="middle" colspan="2"><hr noshade size="1"
+    color="#000000">
+    </td>
+  </tr>
+</table>
+<!--webbot bot="Include" endspan i-checksum="17299" -->
+
+
+<table align="center" border="0" width="750" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="500" valign="top" align="left"><font face="Verdana" size="4" color="#000080">Inskrivaren</font>
+    <p>Välkommen till Inskrivaren! Här kan du snabbt och enkelt skicka dina istips till dina
+    israpportörer och klubbkamrater. För att Inskrivaren ska fungera måste du ange namn och
+    telefonnummer - jourhavande israpportör kan vilja ringa och fråga om något! (Det är
+    därför dessa är rödmarkerade här nedanför.)</p>
+    <p>Välj klubb vars sjö- och fjärdurval du vill ha nedan:<br>
+<%= klubbvattenval($_urval) %>    </p>
+    <p><%= inskrivarform($_urval, 5) %> </p>
+    <p>Tack på förhand för ditt tips!<br>
+    <em>Israpportörerna</em></td>
+    <td valign="top" width="200" bgcolor="#COCOCO"><img
+    src="../images/karlskrona-tre-akare-vid-kummel.jpg" width="200" height="250"><p><font
+    face="Verdana" size="3"><strong>Saknar du någon sjö?</strong></font><font face="Verdana"
+    size="2"><br>
+    Om du inte hittar sjön som du har varit och tittat på är vi tacksamma om du skriver
+    några rader till oss och berättar det. Alla tips är värdefulla <a
+    href="../../kontakta_oss/default.htm">&gt;&gt;&gt;</a></font></td>
+  </tr>
+</table>
+</body>
+</html>

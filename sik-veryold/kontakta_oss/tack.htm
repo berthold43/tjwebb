@@ -1,0 +1,90 @@
+<html>
+<%
+/**
+**  Kodsnutt som skickar data från 
+**  SIK:s kontaktformulär till den
+**  adress som definierats i fältet
+**  Mottagare  (<input type="hidden" ...)
+**
+**  Mats Dahlgren, SSSK, oktober 2002.
+**
+*/
+
+$mailstr  = "\nKontaktbegäran via webben, inkom " . date("Y-m-d H:i", time());
+$mailstr .= "\n\n$Synpunkter\n\n";
+$mailstr .= "Insänt av: $Namn\n";
+$mailstr .= "           $Adress\n";
+$mailstr .= "           $Postnummer\n";
+$mailstr .= "Telefon:   $Telefon\n";
+$mailstr .= "Epost:     $Email\n\n";
+
+if ($Email) {
+    $avs = $Email;
+} else {
+    $avs = "www@skridsko.net";
+}
+
+mail($Mottagare, "SIK-webben: Kontakt", $mailstr, "From: $avs
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+X-Priority: 3
+");
+
+
+
+%>
+
+<head>
+<title>Tack</title>
+<style type="text/css">
+<!--
+a:link {color:#0000FF; text-decoration:none}
+a:visited {color:#333399; text-decoration:none}
+a:hover {color:#FFA500; text-decoration:none}
+-->
+</style>
+<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
+</head>
+
+<body TOPMARGIN="0" LEFTMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0" bgcolor="#FFFFFF">
+<!--webbot bot="Include" U-Include="../headers/kontakt.htm" TAG="BODY" startspan -->
+
+<table align="center" border="0" width="750" cellspacing="0" cellpadding="0">
+  <TR>
+    <TD width="550"><P align=center><FONT face=Verdana size=5>Skånes Isseglarklubb - 
+      SIK</FONT></P></td><td width="150"><A href="../default.htm"><IMG height="82" alt="Skånes Isseglarklubb - SIK" src="../images/logo.jpg" width="150" border="0"></A></TD></tr> 
+  <tr>
+    <td width="800" colspan="2"></td>
+  </tr>
+  <tr>
+    <td width="800" bgcolor="#E6E6E6" align="center" valign="middle" colspan="2" height="20"><font
+    face="Verdana" size="1"><a href="../isinformation/default.htm">Isinformation</a> | <a
+    href="../skridskosegling/default.htm">Skridskosegling</a> | <a
+    href="../langfardsskridsko/default.htm">Långfärdsskridsko</a> | <a
+    href="../sommaraktiviteter/default.htm">Sommaraktiviteter</a> | <a
+    href="../om_sik/default.htm">Om SIK</a> | <a href="../vanliga_fragor/default.htm">Vanliga frågor</a>
+    | <strong><a href="default.htm">Kontakt</a></strong></font></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" align="center" valign="middle" colspan="2"><hr noshade size="1"
+    color="#000000">
+    </td>
+  </tr>
+</table>
+<!--webbot bot="Include" endspan i-checksum="51459" -->
+
+
+<table align="center" border="0" width="750" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="500" valign="top" align="left"><p align="left"><font face="Verdana" size="4"
+    color="#000080">Tack för ditt mail!</font>!<br>
+    <font face="Verdana" size="2">Vi kommer att göra vårt bästa för att <br>
+    besvara ditt mail så snart som möjligt.</font></td>
+    <td width="200" bgcolor="#COCOCO" valign="top" align="center"><img
+    src="../om_sik/images/catarina_vurpar.jpg" width="200" height="131"><p align="left"><font face="Verdana" size="2">Vi
+    har kul på våra turer men en och annan vurpa kan inträffa ;-)</font></td>
+  </tr>
+</table>
+</body>
+</html>

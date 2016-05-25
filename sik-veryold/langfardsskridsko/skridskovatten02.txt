@@ -1,0 +1,607 @@
+<html>
+
+<head>
+<title>Skånska skridskovatten</title>
+<style type="text/css">
+<!--
+body {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+  }
+p,li {
+   font-size:12px;
+   font-family:Verdana, arial, helvetica, sans-serif;
+  }
+  .lista{
+  color:#000000;
+  font-weight:bold;
+  padding-left:0px;
+  margin-left:0px;
+  margin-top:0px;
+  margin-bottom:-0px;
+  text-align:left;
+  font-size:13px;
+  list-style-position:inside;
+  list-style-type:circle;
+  letter-spacing:1px;
+  }
+  h1, h2, h3, h4, h5 
+  {
+  font-family:Verdana, arial, helvetica, sans-serif;
+  font-weight:bold;
+  margin-top:-2px;
+  margin-bottom:-10px;
+  letter-spacing:1px;
+  }
+.radavstand {line-height:12pt}
+a:link {color:#0000FF;text-decoration:none}
+a:visited {color:#333399;text-decoration:none}
+a:hover {color:#FFA500;text-decoration:none}
+-->
+</style>
+<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
+</head>
+
+<body TOPMARGIN="0" LEFTMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0" bgcolor="#FFFFFF">
+<!--webbot bot="Include" U-Include="../headers/langfardsskridsko.htm" TAG="BODY" startspan -->
+
+<table border="0" width="700" cellspacing="0" cellpadding="0">
+  <TR>
+    <TD width="550"><P align=center><FONT face=Verdana size=5>Skånes Isseglarklubb - 
+      SIK</FONT></P></td><td width="150"><A href="../default.htm"><IMG height="82" alt="Skånes Isseglarklubb - SIK" src="../images/logo.jpg" width="150" border="0"></A></TD></tr> 
+  <tr>
+    <td width="800" colspan="2"></td>
+  </tr>
+  <tr>
+    <td width="800" bgcolor="#E6E6E6" align="center" valign="middle" colspan="2" height="20"><p
+    align="center"><font face="Verdana" size="1"><a href="../isinformation/default.htm">Isinformation</a>
+    | <a href="../skridskosegling/default.htm">Skridskosegling</a> | <strong><a
+    href="default.htm">Långfärdsskridsko</a></strong> |&nbsp;<a
+    href="../sommaraktiviteter/default.htm">Sommaraktiviteter</a> | <a
+    href="../om_sik/default.htm">Om SIK</a>&nbsp;| <a href="../vanliga_fragor/default.htm">Vanliga
+    frågor</a> | <a href="../kontakta_oss/default.htm">Kontakt</a></font></td>
+  </tr>
+</table>
+
+<table border="0" width="700" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="130" height="20"></td>
+    <td width="570" height="20"><font face="Verdana" size="1"><a
+    href="fardrapport/index.htm">Färdrapporter</a> | <a
+    href="ledare/default.htm">Ledarsidan</a> | <a href="anmalan/default.htm"> Anmälaren</a> | <a
+    target="_self" href="skridskovatten.htm">Skånska skridskovatten</a>
+    | <a href="genomforda_turer/default.html">Genomförda turer</a> | <a
+    href="lankar.htm">Länkar</a></font></td>
+  </tr>
+  <tr>
+    <td width="800" height="20" colspan="2"><hr noshade size="1" color="#000000">
+    </td>
+  </tr>
+</table>
+<!--webbot bot="Include" endspan i-checksum="6514" -->
+
+
+<table border="0" width="700" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="500" valign="top" align="left"><a name="To top"></a><font face="Verdana"
+    size="4" color="#000080">Skånska skridskovatten<strong><br>
+    </strong></font><table border="0" width="400" cellspacing="0" cellpadding="2">
+      <tr>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Krankesjön">Krankesjön</a> </font></td>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Vaxsjön">Vaxsjön</a> </font></td>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Immeln">Immeln</a> </font></td>
+      </tr>
+      <tr>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Vombsjön">Vombsjön</a> </font></td>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Sövdesjön">Sövdesjön</a> </font></td>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Ivösjön">Ivösjön</a> </font></td>
+      </tr>
+      <tr>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Häckebergasjön">Häckebergasjön</a> </font></td>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Snogeholmssjön">Snogeholmssjön</a> </font></td>
+        <td width="166" valign="top" align="left"><a href="#Lursjön"><font face="Verdana"
+        size="1">Lursjön</font></a></td>
+      </tr>
+      <tr>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Fjällfotasjön">Fjällfotasjön</a> </font></td>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Ellestadssjön">Ellestadssjön</a> </font></td>
+        <td width="166" valign="top" align="left"><a href="skridskovatten.htm#Skälderviken"><font
+        face="Verdana" size="1">Skälderviken</font></a></td>
+      </tr>
+      <tr>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Yddingen">Yddingen</a> </font></td>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Krageholmssjön">Krageholmssjön</a> </font></td>
+        <td width="166" valign="top" align="left"><a href="skridskovatten.htm#Lundåkrabukten"><font
+        face="Verdana" size="1">Lundåkrabukten</font></a></td>
+      </tr>
+      <tr>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Börringesjön">Börringesjön</a> </font></td>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Västersjön och Rössjön">Väster- &amp; Rössjön</a> </font></td>
+        <td width="166" valign="top" align="left"><a href="skridskovatten.htm#Lommabukten"><font
+        face="Verdana" size="1">Lommabukten</font></a></td>
+      </tr>
+      <tr>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Havgårdssjön">Havgårdssjön</a> </font></td>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Perstorps dammar">Perstorps dammar</a> </font></td>
+        <td width="166" valign="top" align="left"><a href="skridskovatten.htm#Höllviken"><font
+        face="Verdana" size="1">Höllviken</font></a></td>
+      </tr>
+      <tr>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Björkesåkrasjön">Björkesåkrasjön</a> </font></td>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Finjasjön">Finnjasjön</a> </font></td>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Kävlingeån och Lödde å">Kävlinge- &amp; Lödde å</a> </font></td>
+      </tr>
+      <tr>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Ö. och V. Ringsjön med Sätoftasjön">Ö &amp; V
+        Ringsjön&nbsp;<br>
+        med Sätoftasjön</a> </font></td>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Tydingen">Tydingen</a> </font></td>
+        <td width="166" valign="top" align="left"><font face="Verdana" size="1"><a
+        href="skridskovatten.htm#Saxån">Saxån</a></font></td>
+      </tr>
+    </table><br>
+    <p>Lämplig <a href="akomrade_startplats.html">parkering och startplats</a> vid sjöar och hav inom vårt åkområde.</p>
+    <h4><a name="Krankesjön">Krankesjön</a></h4>
+   <p> En av Sveriges förnämsta fågelsjöar och vår vanligaste premiärsjö, belägen ca 20
+    km sydost om Lund, nära Revinge.</p>
+   <p>Karta: Gröna kartan 2D Tomelilla NV</p>
+<ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li> Mitt på sjöns nordostsida, vid den väg som går från Revinge by längs sjön
+    mot Silvåkra.</li>
+     <li>Man kan även starta från fågeltornet vid Silvåkra, men med en promenad genom
+    vass ut till isen.</li></ul></p>
+    <h5>Allmänt</h5>
+    <p>Grund sjö med vasstränder och vassruggar. Fryser oftast först av alla medelstora     sjöar
+    i vårt åkområde. En rundtur längs stranden blir ca 8 km.</p>
+    <p>Varning för bäckutlopp på den norra sidan och i den
+    södra änden av sjön. Krankesjön är en fågelsjö och fåglarna håller ofta en del
+    partier mitt på sjön öppna, trots att sjön i övrigt är säker. Sjöyta 3,4 km2.</p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <h4><a name="Vombsjön">Vombsjön</a></h4>
+    <p>Stor öppen sjö, belägen ca 4 km öster om Krankesjön, söder om vägen Harlösa-
+    Övedskloster.</p>
+    <p>Karta: Gröna kartan 2D Tomelilla NV och Tomelilla SV</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>Längs vägen mot Vomb på sjöns västra sida, ca 1 km söder om Kävlingeån.</li></ul></p>
+    <h5>Allmänt</h5>
+    <p>En rundtur längs sjöns stränder blir ca 15 km. Kalla vintrar kan man ibland åka en     bit på Björkaån i sjöns sydöstra hörn. Annars varning för denna å, liksom för
+    Kävlingeån, vid vars inlopp det oftast går öppet långt ut i sjön. Det finns även
+    ett par bäckmynningar strax norr om Björkaån, samt på sjöns norra sida, där det kan
+    vara svagt. Sjöyta 12,4 km2.</p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <h4><a name="Häckebergasjön">Häckebergasjön</a></h4>
+    <p>Liten men trevlig skridskosjö, belägen vid Häckeberga slott, ca 3 km sydost om     Genarp.</p>
+    <p>Karta: Gröna kartan 2D Tomelilla SV.</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>Längs vägen öster om sjön, strax söder om infarten till
+    slottet.</li></ul></p>
+    <h5>Allmänt</h5>
+    <p>Sjön har många små öar och vikar som ger flera alternativa färdvägar. En rundtur
+    blir ca 5 km. På en ö i sjön ligger Häckeberga slott.</p>
+    <p>Isens tjocklek kan ibland variera med svaga partier på
+    den öppna delen av sjön och i vissa sund. Det förekommer att vattennivån regleras med
+    följd att isen kan bli &quot;hängande&quot;, speciellt vid stränderna.</p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <h4><a name="Fjällfotasjön">Fjällfotasjön</a></h4>
+    <p>Omväxlande sjö som oftast fryser tidigt. Belägen ca 3 km nordost om Svedala. Nås från
+    Lund via väg 108 till Bökeberg och sedan till vänster mot Börringe. Från Malmö via
+    E65 förbi Svedala till väg åt vänster mot Bökeberg.</p>
+    <p>Karta: Gröna kartan 2D Tomelilla SV</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>Längs vägen Bökeberg-Börringe på sjöns västra sida,
+    antingen på parkeringen till vänster mittemot det första huset man ser när man kommer
+    från Lundahållet, med ca 200 m promenad till sjön eller efter vägen ett par hundra
+    meter söderut med promenad genom vassen ut till isen.</li></ul></p>
+    <h5>Allmänt</h5>
+    <p>Fin skridskosjö med många öar och vikar. En rundtur blir ca 8 km. <br>
+    Det kan vara svagt i sunden mellan Orön och stränderna på norra och sydöstra sidan om
+    ön. Sjöyta 2,5 km2.</p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <h4><a name="Yddingen">Yddingen</a></h4>
+    <p>Öppen sjö vid väg 108, ca 4 km norr om Svedala</p>
+    <p>Karta: Gröna kartan 2D Tomelilla SV</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>Vid badplatsen i sjöns sydände. Parkering vid vägen Bökeberg-Roslätt. Ev.
+    kan man parkera och starta vid Yddinge Cafe längs väg 108, men man måste begära
+    tillstånd från innehavaren (tel 040/481166).</li></ul></p>
+    <h5>Allmänt</h5>
+    <p>Denna sjö fryser senare än till exempel Fjällfotasjön och istillväxten är ofta
+    ojämn, varför viss försiktighet krävs, åtminstone i början av säsongen. En rundtur
+    blir ca 7 km. Sjön användes ofta av seglarna. Det kan finnas mycket gåsspillning på
+    isen.Vid sjöns sydöstra hörn ligger en vit herrgård , där Hjalmar Gullberg en gång
+    bodde. På västra sidan ligger Bokskogen. Sjöyta 2,1 km2.</p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <h4><a name="Börringesjön">Börringesjön</a></h4>
+    <p>Sveriges sydligaste skridskosjö , belägen ca 5 km öster om Svedala och strax söder om
+    Börringe kloster vid väg E65.</p>
+    <p>Karta: Gröna kartan 2D Tomelilla SV</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>Sjön ligger litet otillgängligt till och det finns ingen parkering direkt vid
+    sjön. Bäst är att parkera vid en liten sidoväg till gården S. Börringe, ca 3 km
+    söder om Börringe slott efter vägen mot Anderslöv. Man kan sedan gå över åkrarna
+    ner till den vik av sjön, som finns på östra sidan.</li></ul></p>
+    <h5>Allmänt</h5>
+    <p>Ganska stor öppen sjö, som vid en tur runt stränderna ger ca 10 km åkning. Intressant
+    natur vid den s. k. Skyttanäbben på sjöns östra sida. Sjöyta 2,95 km2.</p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <h4><a name="Havgårdssjön">Havgårdssjön</a></h4>
+    <p>Liten, rund, idyllisk sjö belägen ca 2 km öster om Börringesjön. Fornborg på en udde
+    i sjön. Lämplig avslutning på en skridskodag efter turer på de litet större sjöarna
+    i området.</p>
+    <h4><a name="Björkesåkrasjön">Björkesåkrasjön</a></h4>
+    <p>Otillgänglig, sällan befaren sjö belägen öster om Sturups flygplats. Kan nås via
+    småvägar och promenad från E65 vid Lemmeströ.</p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <h4><a name="Ö. och V. Ringsjön med Sätoftasjön">Ö.
+    och V. Ringsjön med Sätoftasjön</a></h4>
+    <p>Stora, öppna sjöar vid väg 23, ca 30
+    km nordost om Lund.</p>
+    <p>Karta: Gröna kartan 2D Tomelilla NV</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li> Vid Gamla Boo på näset mellan sjöarna ( väg 23 mot Höör).</li>
+    <li> Vid campingplatsen vid Hörby Ringsjöstrand, avfart från E22. Man kan även starta     från badplatserna vid Sjöholmen i V. Ringsjöns
+    nordvästra hörn och vid Jägersbo i Sätoftasjöns nordöstra hörn.</li></ul></p>
+    <h5>Turer</h5>
+    <p>Många olika alternativ. Man kan åka varje sjö för sig eller alla tre Äklängderna
+    blir ca 17 km för västra sjön, ca 20 km för östra och ca 8 km för Sätoftasjön.
+    Trevligast är att åka längs stränderna, de östra stränderna på både V. och Ö.
+    Ringsjön är mycket grunda och man kan i början av säsongen vid genomskinlig, tunn is
+    åka långa sträckor och se både botten och fiskliv.</p>
+    <h5>Svaga partier</h5>
+    <p>Sundet mellan V. och Ö. sjöarna går alltid öppet. Även sundet till Sätoftasjön kan
+    vara öppet eller med ibland svårpasserbar råk. I V. Ringsjön kan det vara svagt i
+    nordvästra hörnet vid vattenverket och vid Rönne ås inlopp.</p>
+    <p> I Ö. Ringsjöns sydöstra hörn mynnar Hörbyån och en knapp kilometer norr därom           Kruddarebäcken. Nära badplatsen i Sätoftasjöns nordände mynnar också en å. I början av      säsongen finns ofta stora vindbrunnar och senare kan det bildas långa, breda råkar, som     kan vara svåra att passera.</p>
+    <h5>Allmänt</h5>
+    <p>Ringsjöarna är Skånes näst största sjösystem, beläget 54 m över havet och med ett
+    största djup på 17 m i Ö. Ringsjön. Halvön Lillö i V. Ringsjön är rester av en
+    vulkan. På Lillös yttersta spets finns ett bestånd av jätteaspar, området är avsatt
+    som naturreservat.</p>
+    <p>På näset mellan sjöarna ligger Bosjökloster, under medeltiden nunnekloster, blev         under 1500-talet privat slott och är idag en turistanläggning.</p>
+    <p>I mellersta Skåne finns några små sjöar, som ligger drygt 100 m över havet och fryser     tidigt och är trevliga att åka på i säsongens början.</p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <h4><a name="Vaxsjön">Vaxsjön</a> vid Frostavallen</a></h4>
+    <p>Dagstorpssjön, 3 km nordväst om Frostavallen</p>
+    <p>Tjörnarpssjön vid Tjörnarp</p>
+    <p>Bosarpasjön, ca 5 km nordost om S. Rörum</p>
+    <p>Man hittar dessa sjöar på Gröna kartan 3D Kristianstad SV</p>
+    <h4><a name="Sövdesjön">Sövdesjön</a></h4>
+    <p>Öppen sjö men med en del trevliga vikar. Belägen vid Sövde samhälle. Lämplig
+    färdväg via Dalby-Veberöd-Blentarp-Sövde.</p>
+    <p>Karta: Gröna kartan 2D Tomelilla SV</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>Vi badplatsen vid infarten till Sövde västerifrån.</li></ul></p>
+    <h5>Allmänt</h5>
+    <p>En rundtur blir ca 10 km. Trevlig rastplats på en hög kulle vid sjöns sydvästra     sida.</p>
+    <p>Varning för åmynningar i nordvästra hörnet, i sydänden och på både väst- och     östsidorna av sjöns södra del. Den sistnämnda ån
+    håller oftast isen öppen ett hundratal meter ut från stranden.</p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <h4><a name="Snogeholmssjön">Snogeholmssjön</a></h4>
+    <p>Trevlig skridskosjö med många öar och flikar belägen ca 4 km sydost om Sövde. </p>
+    <p>Karta: Gröna kartan 2D Tomelilla SV</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>Vid Fiskarehus strax norr om Snogeholms slott. Alternativt vid rastplatsen
+    längs väg 13 vid sjöns nordöstra hörn.</li></ul></p>
+    <h5>Allmänt</h5>
+    <p>En rundtur blir ca 9 km. Man kan kryssa mellan öarna i den norra delen och förlänga
+    färdvägen. Snogeholms slott på en udde i sydväst. Landstigningsförbud på alla öar.</p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <h4><a name="Ellestadssjön">Ellestadssjön</a></h4>
+    <p>Rund öppen sjö men med höga stränder utan bebyggelse, som ger en viss
+    vildmarksprägel och är därför en trevlig sjö att åka på. Belägen ca 3 km söder om
+    Snogeholmssjön.</p>
+    <p>Karta: Gröna kartan 2D Tomelilla SV</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>Sjön ligger litet otillgängligt till. Man kör ca 3 km söderut från Snogeholms slott
+    till avtagsväg mot Knickarp. Där leder till vänster en mindre markväg skyltad &quot;
+    Mölleskogen&quot; och &quot;Fordonstrafik förbjuden&quot; mot sjön. Till sjön är det
+    ca 400 m, varav halva sträckan genom något risig terräng när vägen tagit slut.</li></ul></p>
+    <h5>Allmänt</h5>
+    <p>En rundtur blir ca 7 km. Det finns några öar, den största med helt
+    &quot;död&quot; växtlighet förorsakad av storskarv. Bäckutlopp i nordvästra hörnet
+    och på östra sidan. På en höjd i sydvästra hörnet ligger Bellinga slott. Sjöyta 2,7 km2.</p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <h4><a name="Krageholmssjön">Krageholmssjön</a></h4>
+    <p>Vår näst sydligaste skridskosjö belägen ca 2 km söder om Ellestadsjön. Om man kommer
+    från denna sjö fortsätter man söderut mot Skårby och sedan österut mot Krageholm.
+    Alternativt kan man komma till sjön från väg 13 vid Sövestad.</p>
+    <p>Karta: Gröna kartan 2D Tomelilla SV</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>Vid sjöns södra spets längs vägen Skårby-Krageholm.</li></ul></p>
+    <h5>Allmänt</h5>
+    <p>Denna sjö fryser inte alla år och när den fryser är isen ofta tunn och inte alltid
+    bärig. Viss försiktighet måste därför alltid iaktas vid färd på denna sjö.
+    Bäckutlopp i det sydöstra hörnet.</p>
+    <p>En rundtur blir ca 7 km. I sjöns norra del ligger ön Lybeck, som är av botaniskt
+    intresse med flera sällsynta växter. Vid sjöns sydöstra del ligger Krageholms        slott.</p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <h4><a name="Västersjön och Rössjön">Västersjön
+    och Rössjön</a></h4>
+    <p>Avlånga men något öppna sjöar, vackert belägna på Hallandsåsens sydsluttning. Nås
+    via E6 till norra avfarten till Ängelholm, därifrån höger till Munka Ljungby och sedan
+    ca 6 km längs väg 114 och mindre väg till vänster mot Rössjöholm.</p>
+    <p>Karta: Gröna kartan 3C Helsingborg NO.</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>Parkeringsplats längs den lokala väg, som går längs Västersjöns norra sida, ca 2 km
+    från näset mellan sjöarna. Man kan även starta från näset och från badplatsen i
+    Västersjöns nordvästra hörn.</li></ul></p>
+    <h5>Allmänt</h5>
+    <p>En rundtur blir ca 10 km per sjö.Det finns ett bäckutflöde i Västersjöns västra
+    ände och en bäck på näset mellan sjöarna, där det kan vara svagt. Rössjön fryser
+    ofta sent och istjockleken kan vara ojämn.</p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <h4><a name="Perstorps dammar">Perstorps dammar</a></h4><br><br>
+    <h5>Store Damm, Fåglasjön, Håkantorps Mölledamm,
+    Svenstorpssjön m fl</h5>
+    <p>Ganska små sjöar men med mycket omväxlande och
+    rolig skridskoåkning med många öar och vikar. Belägna sydost om Perstorp och nås
+    lättast via Röstånga där man tar vägen mot Färingtofta. I Forestad tar man den
+    något krokiga vägen till vänster mot Perstorp. Drygt 1 km söder om Perstorp tar man av
+    till höger vid skylten Gustafsborg och följer sedan en skogsväg ca 2,5 km österut
+    tills man ser sjöarna. Det finns många skogsvägar, så man bör ha en detaljerad karta
+    tillgänglig.</p>
+    <p>Karta: Gröna kartan 3D Kristianstad SV.</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>Det smala näset mellan Store Damm och Håkantorps Mölledamm.</li>
+    <li>Parkeringsplatsen vid Fåglasjöns nordvästra hörn - avtagsväg dit strax efter
+    Spinkabygget.</li></ul></p>
+    <h5>Turer</h5>
+    <p>En rundtur på de fyra nämnda sjöarna blir drygt 25 km. Många varianter möjliga. Man
+    kan hitta smala ispassager som leder genom skogspartier längs stränderna, speciellt på
+    Store Damms västra del och Fåglasjöns sydöstra del.</p>
+    <p>Om turen på dessa sjöar inte räcker kan man också
+    åka på Henrikstorpssjön strax söder om Perstorp och Store Sjö alldeles väster om
+    stora vägen vid avtagsvägen till Gustafsborg.</p>
+    <h5>Allmänt</h5>
+    <p>Sjöarna är belägna i ett intressant rekreationslandskap med bokskogsklädda kullar ,
+    skogspartier och många vattenytor. Sjöarnas höjd över havet, ca 90 m. Ett nät av
+    skogsbilvägar och stigar ger god tillgänglighet till området.</p>
+    <p>I bl a Store Damm och Fåglasjön finns s.k. flytöar som
+    bara påträffats på ett fåtal platser i världen. Dessa öar har bildats vid
+    vattenståndshöjningar då befintliga torvavlagringar släppt från underlaget och lyfts
+    upp till ytan. Jäsningsprocesser till följd av syrebrist har bidragit till att ge
+    lyftkraft.</p>
+    <p>Sjöarna tillkom under 1800-talet, då befintliga
+    småsjöar och kärr dämdes upp och med hjälp av bevattningskanaler sattes under vatten.
+    I sjöarna odlades sedan karp som såldes förutom i Sverige också i Tyskland, dit den
+    transporterades i början med häst och vagn och senare i speciella järnvägsvagnar.
+    Fisken var vid framkomsten levande, då karpen är en primitiv fiskart som kan avge
+    koldioxid genom huden och därigenom klara långa transporter.</p>
+    <p>Förutom karpodling satsade man på den kemiska
+    industrin, bl.a. ättikstillverkning, tjärtillverkning och läkemedel. Vid
+    ättikstillverkningen kolades bok- och björkved från skogen i området. För att
+    transportera veden anlades en smalspårig järnväg och delar av skogsbilvägarna i
+    området går på den gamla järnvägsbanken. Vid Älgamossen strax söder om Håkantorps
+    Mölledamm står fortfarande två järnvägsvagnar kvar som nu användes som rastplats
+    för vandrare. Karpodlingen och ättikstillverkningen etc. skapade kapital för
+    utvecklingen av industrin till dagens högteknologiska företag - Perstorps AB.</p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <h4><a name="Finjasjön">Finjasjön</a></h4>
+    <p>Öppen, rund sjö belägen strax sydväst om Hässleholm längs väg 117.</p>
+    <p>Karta: Gröna kartan 3D Kristianstad SV</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>Badplatsen längs väg 117 vid sjöns sydöstra del.</li>
+   
+     <li>Finjarödsbaden på östra sidan.</li> 
+     <li> Vid Skyrup på den västra sidan.</li></ul></p>
+    <h5>Allmänt</h5>
+    <p>En rundtur längs stränderna blir ca 14 km. Det finns flera bäckutlopp - i norra änden,
+    på västra sidan och i den sydöstra delen. Sjön fryser något ojämt och kan ha en del
+    svaga partier ute på de centrala delarna. Den har ett maxdjup på 12 m och ett medeldjup på 3 m. Sjöyta 10,4 km2. </p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <h4><a name="Tydingen">Tydingen</a></h4>
+    <p>Flikig, trevlig skridskosjö belägen några km väster om Broby. Nås via väg 23 till
+    Stoby , norr Hässleholm, sedan väg 119 mot Broby. Ca 6 km efter N. Sandby går en väg
+    till vänster som leder till sjön.</p>
+    <p>Karta: Gröna kartan 3D Kristianstad NO.</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>Vid badplatsen i sjöns sydöstra hörn.</li></ul></p>
+    <h5>Allmänt</h5>
+    <p>Man åker lämpligen längs stranden men man kan sedan kryssa mellan öarna och åka ut
+    och in i de många vikarna på den västra sidan av sjön. En rundtur blir ca 14 km. Det
+    är ofta svagt i en del smala sund på västsidan.</p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <h4><a name="Immeln">Immeln</a></h4>
+    <p>Trevlig långsträckt skridskosjö med många öar, vikar och bukter. Sjön nås med bil
+    via Hässleholm -Broby - Sibbhult eller Kristianstad - Arkelstorp.</p>
+    <p>Karta: Gröna kartan 3E Karlshamn NV</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>Immelns samhälle vid sjöns sydände.</li>
+    <li>Breanäs kursgård på västra sidan.</li>
+    <li>Nyteboda brygga i den nordöstra spetsen.</li>
+    <li>Badplatsen vid Mjönäs på östra sidan.</li></ul></p>
+    <h5>Turer</h5>
+    <p>Många olika alternativ. En rundtur längs sjöns stränder med alla vikar och bukter blir
+    ca 55 km. En tur på Immeln kan kombineras med Filkesjön och vidare med Raslången och
+    Halen. Övergång till Filkesjön vid Brotorpet i Nytebodavikens sydände.</p>
+    <h5>Svaga områden</h5>
+    <p>De smala sunden strax norr om Immelns samhälle.</p>
+    <p>Vid Ekeshultsåns utlopp på västra sidan.</p>
+    <p>Söder om Högön ( ofta öppet vatten).</p>
+    <h5>Allmänt</h5>
+    <p>Immeln är Skånes tredje största sjö, ca 1,5 mil lång och belägen 81 m över havet.
+    Största djup är 28 m öster om Breanäs udde. Antal skogklädda öar är 79 st. Sjöyta 24 km2.</p>
+    <p>Immelns samhälle fick järnväg 1885 och från den tiden
+    och fram till 1926 mycket livlig ångbåtstrafik mellan Immelns samhälle och Nyteboda
+    brygga i norr och mellanliggande bryggor. Vid Nyteboda ligger Harry Martinssons
+    barndomshem där föräldrarna drev affär.</p>
+    <p>Från Rörvik i den nordvästra viken skeppades stora
+    mängder svart diabas (granit) från Gylsboda stenbrott till järnvägen i Immeln för
+    vidare transport ut i världen. Området norr om Immeln är ett av de få områden i
+    världen där det finns svart diabas, som är mycket eftersökt av arkitekter och
+    konstnärer världen över. En utställning om stenbrytningen finns i Breanäs Kulturhus.</p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <h4><a name="Ivösjön">Ivösjön</a></h4>
+    <p>Trevlig, stor sjö med både smala passager mellan öar och stora öppna partier. Nås med
+    bil via Kristianstad - Vånga eller Kristianstad - Bromölla - Ivetofta.</p>
+    <p>Karta: Gröna kartan 3E Karlshamn SV och 3E Karlshamn NV.</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>Vid badplatsen i Vånga i nordvästra hörnet.</li>
+    <li>Vid Bäckaskogs slott.</li>
+    <li>Vid badplatsen strax norr om Ivetofta kyrka.</li></ul></p>
+    <h5>Turer</h5>
+    <p>Många olika alternativ beroende på startplats. En total rundtur längs stränderna blir
+    ca 60 km. Den stora vida, södra delen är mindre intressant . Trevligare att åka i
+    vikarna och runt öarna i norra och östra delen av sjön eller runt Ivön.</p>
+    <p>Kan kombineras med turer på Oppmannasjön och
+    Råbelövsjön. Man kan t.ex. starta i Råbelövsjöns sydände och åka den i sin hela
+    längd, gå över till Oppmannasjön och åka den söderut tll Bäckaskogs slott och där
+    gå över till Ivösjön som bjuder flera alternativa färdvägar.</p>
+    <h5>Svaga områden</h5>
+    <p>Båtrännan mellan Barum och Ivön, som normalt alltid är öppen.</p>
+    <p>Åmynningar vid Bäckaskog , Näsum och Vånga.</p>
+    <h5>Allmänt</h5>
+    <p>Ivösjön är Skånes största sjö med en höjd över havet på endast 6 m och fryser
+    inte alla vintrar. Största djup är 50 m i Maltes håla mellan Ivön och Ivetofta.
+    Största ön är Ivön med Ivö klack 126 m över havet. Ivöns norra del är
+    naturreservat med hundraåriga bokar och många fridlysta växter bl.a. orkidéen
+    skogsfrun (enda växtplatsen i Skåne). Mellan Barum och Ivön går Skånes enda
+    insjöfärja. Ivö kyrka på den södra delen, helgad åt S:a Ursula har valv från
+    1500-talet och torn från 1820.</p>
+    <p>På norra Ivön finns kalk och kaolinbrott som
+    upptäcktes på 1880-talet. År 1911 var brytningen som störst med 160 mans arbetsstyrka
+    och pråmar i skytteltrafik till Bromölla. Båttrafiken för både passagerare och gods
+    var omfattande vid 1900-talets början.</p>
+    <p>I sjön finns ett 25-tal olika fiskearter - det största
+    antalet i någon svensk sjö. Man har bl.a. fångat en mal som vägde 128 kg och var 310
+    cm lång.</p>
+    <p>I sydväst ligger Bäckaskogs slott, under medeltiden
+    munkkloster, senare kungsgård och sommarnöje åt Karl XV. Själva slottsbyggnaden är
+    från 1600 och 1700-talen och vilar på grundmurar från medeltiden. Sjöyta 54 km2.</p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <h4><a name="Lursjön">Lursjön</a></h4>
+    <p>Trevlig skridksosjön, 55 meter över havet och med
+    största djup på 9 meter. Belägen 3 kilometer sydväst om Hästveda. Åkningen på denna
+    sjö kan kombineras med en tur på Tydingen, som ligger på cirka 15 minuters bilfärd
+    från Lursjön. Sjön nås från väg 23 mot Osby, västerut vid OK-macken mot Hästveda.
+    I Hästveda mot Farstorp under järnvägen, sedan skyltat mot Lursjön, cirka 3 kilometer.
+    </p>
+    <p>Karta: Gröna kartan, 3D NO Kristianstad</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>Vid badplatsen vid sjöns östra de</li></ul></p>
+    <h5>Allmänt</h5>
+    <p>En rundtur blir cirka 11 kilometer. Det går bra att
+    åka mellan öarna. Man åker lämpligen längst stranden västerut. Lämplig rastplats i
+    söderläge på badplatsen söder om Lur.</p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <hr noshade size="1" color="#000000"><br>
+    <h4>Havet</h4>
+    <p>Det finns ju ingen skärgård att tala om runt Skånes kuster, men när havet fryser kan
+    man ändå göra en del fina turer på de grunda havsvikarna längs Öresundskusten.
+    Tyvärr sker det inte så ofta - under de senaste 20 åren har det funnits åkbar is 6
+    vintrar. Turer kan göras på t.ex. följande vatten:</p>
+    <h4><a name="Skälderviken">Skälderviken</a></h4>
+    <p>Karta: Gröna kartan 3C Helsingborg NO.</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>Vid Ängelholms havsbad.</li></ul></p>
+    <h4><a name="Lundåkrabukten">Lundåkrabukten</a></h4>
+    <p>Karta: Gröna kartan 2C Malmö NV</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>Vid Sjöbobadet strax norr om Barsebäckshamn.</li>
+    <li>Vid Järavallen. </li>
+    <li>Skjutbanan söder Landskrona.</li>
+    <li>Om Saxån är frusen och åkbar, på norra sidan av bron över Saxån i Häljarp
+    mellan Saxtorp och Landskrona.</li></ul>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <h4><a name="Lommabukten">Lommabukten</a></h4>
+    <p>Karta: Gröna kartan 2C Malmö NV och 2C Malmö NO.</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>Vid långa bryggan i Bjärred. </li>
+    <li>Vid badplatsen i Lomma.</li>
+    <li>Parkeringsplatsen strax norr om Habo Ljung.</li></ul></p>
+    <h4><a name="Höllviken">Höllviken</a></h4>
+    <p>Karta: Gröna kartan 1C/2C Trelleborg NV/ Malmö SV</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>Klagshamns udde. </li>
+    <li>Vid hemvärnsgården i Höllviken.</li></ul></p>
+    <h5>Allmänt</h5>
+    <p>Turernas uppläggning och längd får avgöras från gång till gång beroende på
+    isläget och isens kvalitet. Färd på havsis kräver stor försiktighet och isvana. Isen
+    bör vara minst 10 cm tjock.</p>
+    <p>Vrakis, stora vindbrunnar och andra svaga områden är vanligt förekommande.</p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <hr noshade size="1" color="#000000"><br>
+    <h4>Åar</h4>
+    <p>Det finns en del åar i Skåne,som kalla vintrar kan bli åkbara. Här skall nämnas två,
+    som för mycket isvana åkare kan ge fina turer vid gynnsamma omständigheter.</p>
+    <h4><a name="Kävlingeån och Lödde å">Kävlingeån
+    och Lödde å</a></h4>
+    <p>Karta: Gröna kartan 2C Malmö NO och 2C Malmö NV.</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>Vid Flyinge</li>
+    <li>Vid Örtofta</li>
+    <li>Vid kanotklubben i Löddeköpinge.</li></ul></p>
+    <h5>Allmänt</h5>
+    <p>Lödde å, som sträckan Löddeköpinge-Lommabukten kallas, är lättast att åka , då
+    det inte är några nivåskillnader. Även sträckan Flyinge-Örtofta relativt lätt,
+    även om det finns en del strömmande partier där isen kan vara svag. Sträckan Örtofta-
+    Löddeköpinge har flera svåra strömställen och kräver åtskilliga landpromenader.
+    Generellt gäller att åkning på en å som Kävlingeån kräver mycket stor isvana och
+    gott omdöme.</p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></p>
+    <h4><a name="Saxån">Saxån</a></h4>
+    <p>Karta: Gröna kartan 2C Malmö N</p>
+    <ul class="lista">Lämplig startpunkt och parkeringsplats</ul>
+    <li>På norra sidan av ån vid
+    bron i Häljarp på vägen Saxtorp-Landskrona.</li></ul></p>
+    <h5>Allmänt</h5>
+    <p>Man kan åka några kilometer österut och ev. göra en sväng in på Braån. Västerut
+    kan man åka ut på Lundåkrabukten om den har is. Inga svåra strömställen mellan
+    Braåns mynning i Saxån och hav.</p>
+    <p><em><font face="Verdana" size="2">Anders Westman&nbsp; </font></em></p>
+    <p align="right"><a href="skridskovatten.htm#To top"><font face="Verdana" size="1">Till
+    toppen av sidan</font></a></td>
+    <td width="200" bgcolor="#COCOCO" valign="top" align="center"><p align="center"><img
+    src="../nyhestsarkiv/2002_2003/images/Overnattningstur-sommen-0303160006-brantberg-skrinnare-poserar.jpg" width="200" height="300"></p>
+    <p align="left"><font face="Verdana" size="3"><strong>Övernattningstur</strong></font><font
+    face="Verdana" size="2"><br>
+    Följ med på spännande äventyr med SIK. Vi brukar göra någon eller några
+    övernattningsturer per säsong till andra åkområden. Om du är intresserad av att
+    följa med så kolla in Isnytt <a href="../isinformation/isnytt/default.htm">&gt;&gt;&gt;</a></font></td>
+  </tr>
+</table>
+</body>
+</html>

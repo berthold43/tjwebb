@@ -1,0 +1,36 @@
+<%= pageBeginning("Skridskonätet - Inskrivaren", "Inskrivaren"); %>
+<% 
+include_once "inskrivaren_form.php";
+
+if (eregi("Mozilla",getenv("HTTP_USER_AGENT"))) {
+    if (eregi("MSIE",getenv("HTTP_USER_AGENT"))) {
+        $browser = "MSIE";
+        $wrap = "wrap=\"virtual\"";
+    } else {
+        $browser = "Netscape";
+        $wrap = "wrap=\"soft\"";
+    }
+}
+
+if (!isset($skridskonet)) {
+    $skridskonet = 5;
+}
+
+if (!isset($_urval)) {
+    $_urval = $skridskonet;
+}
+
+%>
+<!-- <h1>Inskrivaren</h1> -->
+    <p>Välkommen till Inskrivaren! Här kan du snabbt och enkelt
+    skicka dina istips till dina israpportörer och klubbkamrater. 
+    För att Inskrivaren ska fungera måste du ange namn och
+    telefonnummer - jourhavande israpportör kan vilja ringa och fråga om något! (Det
+    är därför dessa är rödmarkerade här nedanför.)</p>
+    <p>Välj klubb vars sjö- och fjärdurval du vill ha nedan:<br>
+    <%= klubbvattenval($_urval) %></p>
+    <%= inskrivarform($_urval, 5) %>
+    <blockquote><p align="right"><em>Tack på förhand för ditt tips!<br>
+      Israpportörerna</em></p></blockquote>
+<%= pageEnding() %>
+

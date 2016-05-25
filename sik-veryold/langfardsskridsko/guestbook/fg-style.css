@@ -1,0 +1,87 @@
+/* ----------------------------------------------------------------------------- */
+/*                                                                               */
+/* Copyright (C) 2005, Script by RP-Draw WebDesign, Delfzijl, Netherlands        */
+/* http://www.rp-draw.nl/scripts/index.html - info@rp-draw.nl                    */
+/*                                                                               */
+/*                                                                               */
+/* GPL LICENCE                                                                   */
+/* This file is part of Flat-Guest guestbook.                                    */
+/*                                                                               */
+/* Flat-Guest guestbook is free software; you can redistribute it and/or modify  */
+/* it under the terms of the GNU General Public License as published by          */
+/* the Free Software Foundation; either version 2 of the License, or             */
+/* (at your option) any later version.                                           */
+/*                                                                               */
+/* Flat-Guest guestbook is distributed in the hope that it will be useful,       */
+/* but WITHOUT ANY WARRANTY; without even the implied warranty of                */
+/* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the                 */
+/* GNU General Public License for more details.                                  */
+/*                                                                               */
+/* You should have received a copy of the GNU General Public License             */
+/* along with Flat-Guest guestbook; if not, write to the Free Software           */
+/* Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA     */
+/*                                                                               */
+/* ----------------------------------------------------------------------------- */
+body, td, p, input, textarea, select {
+    font-family: arial;
+    font-size: 11pt;
+	color: #000000;
+/*scrollbar color setting */
+	scrollbar-face-color: #999999;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-shadow-color: #000000;
+	scrollbar-3dlight-color: #dddddd;
+	scrollbar-arrow-color:  #000000;
+	scrollbar-track-color: #FFFFFF;
+	scrollbar-darkshadow-color: #666666;
+}
+
+/*font setting for main texts */
+.font1 {COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 11px}
+.font1 a:link      { text-decoration: UNDERLINE; color : #000000;}
+.font1 a:active    { text-decoration: UNDERLINE; color : #000000;}
+.font1 a:visited   { text-decoration: UNDERLINE; color : #000000;}
+.font1 a:hover	   { text-decoration: UNDERLINE; color : #CC0000;}
+
+/*font setting for messages */
+.font2 {COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px}
+.font2 a:link      { text-decoration: UNDERLINE; color : #000000;}
+.font2 a:active    { text-decoration: UNDERLINE; color : #000000;}
+.font2 a:visited   { text-decoration: UNDERLINE; color : #000000;}
+.font2 a:hover	   { text-decoration: UNDERLINE; color : #CC0000;}
+
+/*font setting for user details and date/time stamp */
+.font3 {COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 7.5pt; FONT-WEIGHT: bold}.font3 a:link      { text-decoration: UNDERLINE; color : #000000;}
+.font3 a:active    { text-decoration: UNDERLINE; color : #000000;}
+.font3 a:visited   { text-decoration: UNDERLINE; color : #000000;}
+.font3 a:hover	   { text-decoration: UNDERLINE; color : #CC0000;}
+
+/*color setting for buttons */
+.button	{FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+		 FONT-SIZE: 9pt;
+		 font-weight:bold;
+		 color: #000000; 
+		 background-color: #fe7302; 
+		 border: 1 outline #000000;
+}
+
+/*Main page headdings */
+h1 {font-family: "COMIC SANS MS", Arial, Verdana;
+	color: #000080;
+    font-size:20px;
+    font-weight:bold;
+	LETTER-SPACING:2pt;
+	TEXT-ALIGN:CENTER;
+	FONT-STYLE:ITALIC;
+    TEXT-DECORATION:none;
+}
+
+/*Error heddings*/
+h2 {font-family : "COMIC SANS MS", Arial, Verdana; 
+	color:#CC0000;
+    font-size: 16px;
+    font-weight: bold;
+	line-height: 20px;
+	LETTER-SPACING:2pt;
+    TEXT-DECORATION:underline;
+}

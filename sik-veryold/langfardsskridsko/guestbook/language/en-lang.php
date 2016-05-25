@@ -1,0 +1,74 @@
+<?PHP
+/* ----------------------------------------------------------------------------- */
+/*                                                                               */
+/* Copyright (C) 2005, Script by RP-Draw WebDesign, Delfzijl, Netherlands        */
+/* http://www.rp-draw.nl/scripts/index.html - info@rp-draw.nl                    */
+/*                                                                               */
+/*                                                                               */
+/* GPL LICENCE                                                                   */
+/* This file is part of Flat-Guest guestbook.                                    */
+/*                                                                               */
+/* Flat-Guest guestbook is free software; you can redistribute it and/or modify  */
+/* it under the terms of the GNU General Public License as published by          */
+/* the Free Software Foundation; either version 2 of the License, or             */
+/* (at your option) any later version.                                           */
+/*                                                                               */
+/* Flat-Guest guestbook is distributed in the hope that it will be useful,       */
+/* but WITHOUT ANY WARRANTY; without even the implied warranty of                */
+/* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the                 */
+/* GNU General Public License for more details.                                  */
+/*                                                                               */
+/* You should have received a copy of the GNU General Public License             */
+/* along with Flat-Guest guestbook; if not, write to the Free Software           */
+/* Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA     */
+/*                                                                               */
+/* ----------------------------------------------------------------------------- */
+
+// en = english
+$lang['en']['read-gbook-title'] = 'Read the Guestbook'; 			//title on page 1
+$lang['en']['sign-gbook-title'] = 'Sign the Guestbook'; 			//title on page 2
+$lang['en']['sign-gbook-link'] = 'Sign the Guestbook';				//link on page 1
+$lang['en']['signed-by'] = 'Contact data';					//1st colom heading
+$lang['en']['messages'] = 'Messages';						//2nd colom heading
+$lang['en']['no-messages'] = 'There are no messages on file.';			//empty data file
+$lang['en']['userinfo1'] = 'Name: ';						//text inside user image alt
+$lang['en']['userinfo2'] = 'Website: ';						//text inside website image alt
+$lang['en']['userinfo3'] = 'Send Email to: ';					//text inside email image alt
+$lang['en']['userinfo4'] = 'Location: ';					//text inside location image alt
+$lang['en']['userinfo5a'] = 'Message number: ';					//text inside massage image alt
+$lang['en']['userinfo5b'] = 'Written by: ';					//text inside massage image alt
+$lang['en']['userinfo6'] = 'Delete message number: ';				//text inside delete image alt
+$lang['en']['signinfo1'] = 'Name: ';						//text on sign form
+$lang['en']['signinfo2'] = 'Email<BR>(Optional): ';				//text on sign form
+$lang['en']['signinfo3'] = 'Website<BR>(Optional): ';				//text on sign form
+$lang['en']['signinfo4'] = 'Location: ';					//text on sign form
+$lang['en']['signinfo5'] = 'Message: ';						//text on sign form
+$lang['en']['signinfo6'] = 'Requiered field';					//text on sign form
+$lang['en']['sign-but1'] = 'Save';						//text on button of sign form
+$lang['en']['sign-but2'] = 'Delete';						//text on button of sign form
+$lang['en']['sign-but3'] = 'Back';						//text on button of sign form
+$lang['en']['pagenum-top'] = 'First';						//text on bottom for page selection
+$lang['en']['pagenum-bot'] = 'Last';						//text on bottom for page selection
+$lang['en']['pagenum-a'] = 'Page #';						//text on bottom for page selection
+$lang['en']['pagenum-b'] = 'Page # 1 of 1';					//text on bottom for page selection
+$lang['en']['error'] = 'Error !';						// start of every error message
+$lang['en']['no-datafile'] = 'Cannot find the data.dat file to store the messages.';
+$lang['en']['empty-fields'] = 'There are probable empty fields. Click ';
+$lang['en']['wrong-email'] = 'Wrong e-mail address format. Click ';
+$lang['en']['wrong-url'] = 'Wrong website URL format. Click ';
+$lang['en']['no-abuse1'] = 'Please do not abuse this guestbook. Maximum length of your message can be ';
+$lang['en']['no-abuse2'] = ' characters.<BR>Click ';
+$lang['en']['click-here'] = 'here';
+$lang['en']['try-again'] = 'and try again.';
+$lang['en']['added1'] = 'Message added';
+$lang['en']['added2'] = 'Thank you, your message has been added to the guestbook. ';
+$lang['en']['one-moment'] = 'One moment please ...';
+$lang['en']['delete-title'] = 'Delete confirmation';
+$lang['en']['deleted'] = 'The message has been deleted !';
+$lang['en']['from'] = 'from';
+$lang['en']['password-needed'] = 'Password necessary';
+$lang['en']['admin-password'] = 'Admin password : ';
+$lang['en']['del-but1'] = 'Delete this message';
+$lang['en']['del-but2'] = 'Cancel';
+$lang['en']['wrong-admin-password'] = 'Wrong admin password : ';
+?>

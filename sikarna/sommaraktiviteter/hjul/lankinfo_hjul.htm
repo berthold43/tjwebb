@@ -1,0 +1,29 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
+<meta name="Microsoft Border" content="none">
+<title>Länkinformation</title>
+</head>
+
+<body leftmargin="0">
+<div align="left">
+
+<table border="1" bgcolor="E0E0E0">
+  <tr>
+    <td align="left" valign="top"><font face="Arial,Helvetica"><h3><small>Länkinformation:</small></h3>
+    <p><small>Du kan själv skapa länkar till den här sidan på två olika sätt,</small> <small>beroende
+    på hur den skall användas.</small></p>
+    <p><small>I ett inmatningsfält på någon SSSK-sida kan man referera till denna sida med
+    :&nbsp;</small><br>
+    <small>[<?=$rs->get("rubrik")?>=db:<?php echo $entityName;?>/<?=$rs->get("ID")?>]</small></p>
+    <p><small>Länk som du kan maila:</small><br>
+    <small><a href="/databas/hjul/hjul-v.asp?ID=<?=$rs->get("ID")?>">http://www.sssk.se/databas/hjul/hjul-v.asp?ID=<?=$rs->get("ID")?></a></small></p>
+    <p align="right"><a href="hjul-v.asp?ID=<?=$rs->get("ID")?>&amp;_lankinfo=0"><small>Ta
+    bort rutan med länkinformation</small></a></font></td>
+  </tr>
+</table>
+</div>
+</body>
+</html>

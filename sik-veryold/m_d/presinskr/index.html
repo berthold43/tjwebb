@@ -1,0 +1,11 @@
+<%
+include_once "klubbnamn.php";
+
+echo pageBeginning ("Skridskonätet - Inskrivaren", "Inskrivaren", 2);
+mysql_select_db("sssk");
+include "_inskrivaren_l.php";
+
+echo inskrivarLista ($_urval, $_kalender);
+
+echo pageEnding();
+%>

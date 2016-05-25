@@ -1,0 +1,53 @@
+
+<?php
+/**
+**  Kodsnutt som skickar data från
+**  SIK:s kontaktformulär till den
+**  adress som definierats i fältet
+**  Mottagare  (<input type="hidden" ...)
+**
+**  Mats Dahlgren, SSSK, oktober 2002.
+**
+*/
+if (!defined('NL')) {
+    define('NL', "\n");
+}
+
+$mailstr  = "\nKontaktbegäran via webben, inkom " . date("Y-m-d H:i", time());
+$mailstr .= NL . NL . $_POST['synpunkter'] . NL . NL;
+$mailstr .= 'Insänt av: ' . $_POST['namn'] . NL;
+$mailstr .= 'Adress: ' . $_POST['adress'] . NL;
+$mailstr .= 'Postnummer: ' . $_POST['postnummer'] . NL;
+$mailstr .= 'Telefon: ' . $_POST['telefon'] . NL;
+$mailstr .= 'Epost: ' . $_POST['email'] . NL . NL;
+
+
+if ($Email) {
+    $avs = $_POST['email'];
+} else {
+    $avs = "www@skridsko.net";
+}
+
+mail($_POST['mottagare'], "SIK-webben: Kontakt", $mailstr, "From: $avs
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+X-Priority: 3
+");
+?>
+
+<?php echo pageHeader(0, false, "Kontakt", 'Kontakt');?>
+
+<div id="wrapper">
+<div id="left_column">
+<h2>Tack för ditt mail!</h2>
+<p>Vi kommer att göra vårt bästa för att besvara ditt mail så snart som möjligt.</p>
+</div>
+<div id="right_column">
+<img src="../langfardsskridsko/images/snostrang.jpg" alt="Vurpan" width="250" height="250">
+<p>En tur som gav smak för mer.</p>
+</div>
+<div id="extra">
+<? echo  pageFooter();
+
+

@@ -1,0 +1,1195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+	<title>Israpportörer och Ledarschema</title>
+	<style type="text/css">
+		body{
+			font-family:Arial,Helvetica,Sans-serif;
+			font-size:80%;
+		}
+		caption{
+			padding-bottom:5px;
+			font-weight:bold;
+		}
+		.sidbrytning{page-break-after:always}
+		thead th,tfoot td{
+			background:#ddd;
+		}
+		tr.ruled{
+			background:#9cf;
+		}    
+		table{
+			border:1px solid #000;
+			border-collapse:collapse;
+		}
+		th,td{
+			border:1px solid #000;
+			border-collapse:collapse;
+		}
+		#mytable tr.ruled{
+			background:#333;
+			color:#ccc;
+		}
+    </style>
+	
+	<script type="text/javascript">
+		window.onload=function(){tableruler();} 
+	function tableruler()
+{
+ if (document.getElementById &&» 
+  document.createTextNode)
+  {
+   var tables=document.getElementsByTagName»
+    ('table');
+   for (var i=0;i<tables.length;i++)
+   {
+    if(tables[i].className=='ruler')
+    {
+     var trs=tables[i].getElementsByTagName('tr');
+     for(var j=0;j<trs.length;j++)
+     {
+      if(trs[j].parentNode.nodeName=='TBODY'»
+       && trs[j].parentNode.nodeName!='TFOOT')
+       {
+       trs[j].onmouseover=function(){this.»
+        className='ruled';return false}
+       trs[j].onmouseout=function(){this.»
+        className='';return false}
+     }
+    }
+   }
+  }
+ }
+}
+
+	
+
+    </script>
+</head>
+<body>
+<h1>Israpportör och ledarschema 2004-2005</h1>
+
+<h2></h2>
+<table class="ruler" summary="Table of my records">
+<caption></caption>
+<thead>
+	<tr>
+		<th scope="col">Månad</th>
+		<th scope="col">Datum</th>
+ 		<th scope="col">Dag</th>
+		<th scope="col">Israpport</th>
+		<th scope="col">ÅkgruppV</th>
+		<th scope="col">ÅkgruppIV</th>
+		<th scope="col">ÅkgruppIII</th>
+		<th scope="col">ÅkgruppII</th>
+		<th scope="col">Åkgrupp annan</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>December</td>
+		<td>12</td>
+		<td>Måndag</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	        <td></td>
+	</tr>
+	<tr>
+		<td>December</td>
+		<td>13</td>
+		<td>Tisdag</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	        <td></td>
+		
+	</tr>
+	<tr>
+		<td>December</td>
+		<td>14</td>
+		<td>Onsdag</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	        <td></td>
+	</tr>
+	<tr>
+		<td>December</td>
+		<td>15</td>
+		<td>Torsdag</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	        <td></td>
+	</tr>
+<TR bgcolor="#FFFFFF" onMouseOver="this.bgColor='#cccccc';" onMouseOut="this.bgColor='#ffffff';">
+		<td>December</td>
+		<td>16</td>
+		<td>Fredag</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	        <td></td>
+	</tr>
+	<tr bgcolor="99FFFF">
+		<td>December</td>
+		<td>17</td>
+		<td>Lördag</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">
+		<td>December</td>
+		<td>18</td>
+		<td>Söndag</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	        
+	</tr>
+	<tr>    <td>December</td>
+		<td>19</td>
+		<td>Måndag</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	        <td></td>
+		
+	</tr>
+	<tr>
+		<td>December</td>
+		<td>20</td>
+		<td>Tisdag</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	        <td></td>
+	</tr>
+	<tr>
+		<td>December</td>
+		<td>21</td>
+		<td>Onsdag</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	        <td></td>
+	</tr>
+	<tr>
+		<td>December</td>
+		<td>22</td>
+		<td>Torsdag</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	        <td></td>
+	</tr>
+	<tr>
+		<td>December</td>
+		<td>23</td>
+		<td>Fredag</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	        <td></td>
+	</tr>
+	<tr bgcolor="99FFFF">
+		<td>December</td>
+		<td>24</td>
+		<td>Lördag</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">
+		<td>December</td>
+		<td>25</td>
+		<td>Söndag</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		
+	</tr>
+	<tr>   
+		<td>December</td>
+		<td>26</td>
+		<td>Måndag</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>   
+		<td>December</td>
+		<td>27</td>
+		<td>Tisdag</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>   
+		<td>December</td>
+		<td>28</td>
+		<td>Onsdag</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>   
+		<td>December</td>
+		<td>29</td>
+		<td>Torsdag</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">   
+		<td>December</td>
+		<td>30</td>
+		<td>Fredag</td>
+		<td>Ingemar Jacobsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+        <tr bgcolor="99FFFF">   
+		<td>December</td>
+		<td>31</td>
+		<td>Lördag</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	<thead>
+	<tr>
+		<th scope="col">Månad</th>
+		<th scope="col">Datum</th>
+ 		<th scope="col">Dag</th>
+		<th scope="col">Israpport</th>
+		<th scope="col">ÅkgruppV</th>
+		<th scope="col">ÅkgruppIV</th>
+		<th scope="col">ÅkgruppIII</th>
+		<th scope="col">ÅkgruppII</th>
+		<th scope="col">Åkgrupp annan</th>
+	</tr>
+	</thead>
+	<tr bgcolor="99FFFF">   
+		<td>Januari</td>
+		<td>1</td>
+		<td>Lördag</td>
+		<td>Ingemar Jacobsson</td>
+		<td></td>
+		<td>Stefan Holmström</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">   
+		<td>Januari</td>
+		<td>2</td>
+		<td>Söndag</td>
+		<td>Ingemar Jacobsson</td>
+		<td></td>
+		<td>Maria Cederberg</td>
+		<td>Ingemar Jacobsson</td>
+		<td>Jan Rehnö</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Januari</td>
+		<td>3</td>
+		<td>Måndag</td>
+		<td>Sven Karlsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Januari</td>
+		<td>4</td>
+		<td>Tisdag</td>
+		<td>Sven Karlsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Januari</td>
+		<td>5</td>
+		<td>Onsdag</td>
+		<td>Sven Karlsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Januari</td>
+		<td>6</td>
+		<td>Torsdag</td>
+		<td>Sven Karlsson</td>
+		<td></td>
+		<td>Stefan Holmström</td>
+		<td>Sven Karlsson</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Januari</td>
+		<td>7</td>
+		<td>Fredag</td>
+		<td>Sven Karlsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Januari</td>
+		<td>8</td>
+		<td>Lördag</td>
+		<td>Sven Karlsson</td>
+		<td>Kaj Persson</td>
+		<td>Stig Edner</td>
+		<td>Sven Karlsson</td>
+		<td>Göte Larsson</td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Januari</td>
+		<td>9</td>
+		<td>Söndag</td>
+		<td>Sven Karlsson</td>
+		<td>Carin Petersson Lisa Beltzén</td>
+		<td>Jan Rehnö</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Januari</td>
+		<td>10</td>
+		<td>Måndag</td>
+		<td>Anders Håkansson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr class="sidbrytning">
+	 <tr>   <td>Januari</td>
+		<td>11</td>
+		<td>Tisdag</td>
+		<td>Anders Håkansson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Januari</td>
+		<td>12</td>
+		<td>Onsdag</td>
+		<td>Anders Håkansson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Januari</td>
+		<td>13</td>
+		<td>Torsdag</td>
+		<td>Anders Håkansson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Januari</td>
+		<td>14</td>
+		<td>Fredag</td>
+		<td>Anders Håkansson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Januari</td>
+		<td>15</td>
+		<td>Lördag</td>
+		<td>Anders Håkansson</td>
+		<td>Sven Engberg</td>
+		<td>Kaj Persson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Januari</td>
+		<td>16</td>
+		<td>Söndag</td>
+		<td>Anders Håkansson</td>
+		<td>Sven Engberg</td>
+		<td>Anders Håkansson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Januari</td>
+		<td>17</td>
+		<td>Måndag</td>
+		<td>Lars Carlstedt</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Januari</td>
+		<td>18</td>
+		<td>Tisdag</td>
+		<td>Lars Carlstedt</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Januari</td>
+		<td>19</td>
+		<td>Onsdag</td>
+		<td>Lars Carlstedt</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Januari</td>
+		<td>20</td>
+		<td>Torsdag</td>
+		<td>Lars Carlstedt</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Januari</td>
+		<td>21</td>
+		<td>Fredag</td>
+		<td>Lars Carlstedt</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Januari</td>
+		<td>22</td>
+		<td>Lördag</td>
+		<td>Lars Carlstedt</td>
+		<td>Stig Edner</td>
+		<td>Lars Carlstedt</td>
+		<td>Ingemar Jacobsson</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Januari</td>
+		<td>23</td>
+		<td>Söndag</td>
+		<td>Lars Carlstedt</td>
+		<td>Carin Petersson Lisa Beltzén</td>
+		<td>Lars Carlstedt</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Januari</td>
+		<td>24</td>
+		<td>Måndag</td>
+		<td>Anders Håkansson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Januari</td>
+		<td>25</td>
+		<td>Tisdag</td>
+		<td>Anders Håkansson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Januari</td>
+		<td>26</td>
+		<td>Onsdag</td>
+		<td>Anders Håkansson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Januari</td>
+		<td>27</td>
+		<td>Torsdag</td>
+		<td>Anders Håkansson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Januari</td>
+		<td>28</td>
+		<td>Fredag</td>
+		<td>Anders Håkansson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Januari</td>
+		<td>29</td>
+		<td>Lördag</td>
+		<td>Anders Håkansson</td>
+		<td>Sven Engberg</td>
+		<td>Bengt Ekwall</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Januari</td>
+		<td>30</td>
+		<td>Söndag</td>
+		<td>Anders Håkansson</td>
+		<td>Anders Håkansson</td>
+		<td>Bengt Ekwall</td>
+		<td>Johan Rygge</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Januari</td>
+		<td>31</td>
+		<td>Måndag</td>
+		<td>Mats Jansson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<thead>
+	<tr>
+		<th scope="col">Månad</th>
+		<th scope="col">Datum</th>
+ 		<th scope="col">Dag</th>
+		<th scope="col">Israpport</th>
+		<th scope="col">ÅkgruppV</th>
+		<th scope="col">ÅkgruppIV</th>
+		<th scope="col">ÅkgruppIII</th>
+		<th scope="col">ÅkgruppII</th>
+		<th scope="col">Åkgrupp annan</th>
+	</tr>
+	<tr>    <td>Februari</td>
+		<td>1</td>
+		<td>Tisdag</td>
+		<td>Mats Jansson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Februari</td>
+		<td>2</td>
+		<td>Onsdag</td>
+		<td>Mats Jansson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Februari</td>
+		<td>3</td>
+		<td>Torsdag</td>
+		<td>Mats Jansson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Februari</td>
+		<td>4</td>
+		<td>Fredag</td>
+		<td>Mats Jansson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Februari</td>
+		<td>5</td>
+		<td>Lördag</td>
+		<td>Mats Jansson</td>
+		<td></td>
+		<td>Kaj Persson</td>
+		<td>Stefan Mattsson</td>
+		<td>Göte Larsson</td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Februari</td>
+		<td>6</td>
+		<td>Söndag</td>
+		<td>Mats Jansson</td>
+		<td>Maria Cederberg</td>
+		<td>Ingemar Jacobsson</td>
+		<td>Jan Rehnö</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Februari</td>
+		<td>7</td>
+		<td>Måndag</td>
+		<td>Sven Karlsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr class="sidbrytning">
+	
+	<tr>    <td>Februari</td>
+		<td>8</td>
+		<td>Tisdag</td>
+		<td>Sven Karlsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	
+	
+	<tr>    <td>Februari</td>
+		<td>9</td>
+		<td>Onsdag</td>
+		<td>Sven Karlsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Februari</td>
+		<td>10</td>
+		<td>Torsdag</td>
+		<td>Sven Karlsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Februari</td>
+		<td>11</td>
+		<td>Fredag</td>
+		<td>Sven Karlsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Februari</td>
+		<td>12</td>
+		<td>Lördag</td>
+		<td>Sven Karlsson</td>
+		<td></td>
+		<td>Bengt Ekwall</td>
+		<td></td>
+		<td>Sven Karlsson</td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Februari</td>
+		<td>13</td>
+		<td>Söndag</td>
+		<td>Sven Karlsson</td>
+		<td>Lisa Beltzén Carin Petersson</td>
+		<td>Ingemar Jacobsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Februari</td>
+		<td>14</td>
+		<td>Måndag</td>
+		<td>Ingemar Jacobsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    
+		<td>Februari</td>
+		<td>15</td>
+		<td>Tisdag</td>
+		<td>Ingemar Jacobsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Februari</td>
+		<td>16</td>
+		<td>Onsdag</td>
+		<td>Ingemar Jacobsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Februari</td>
+		<td>17</td>
+		<td>Torsdag</td>
+		<td>Ingemar Jacobsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Februari</td>
+		<td>18</td>
+		<td>Fredag</td>
+		<td>Ingemar Jacobsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Februari</td>
+		<td>19</td>
+		<td>Lördag</td>
+		<td>Ingemar Jacobsson</td>
+		<td>Kaj Persson</td>
+		<td>Sven Engberg</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Februari</td>
+		<td>20</td>
+		<td>Söndag</td>
+		<td>Ingemar Jacobsson</td>
+		<td>Sven Engberg</td>
+		<td>Stefan Holmström</td>
+		<td>Johan Rygge</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Februari</td>
+		<td>21</td>
+		<td>Måndag</td>
+		<td>Stefan Holmström</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Februari</td>
+		<td>22</td>
+		<td>Tisdag</td>
+		<td>Stefan Holmström</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Februari</td>
+		<td>23</td>
+		<td>Onsdag</td>
+		<td>Stefan Holmström</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Februari</td>
+		<td>24</td>
+		<td>Torsdag</td>
+		<td>Stefan Holmström</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Februari</td>
+		<td>25</td>
+		<td>Fredag</td>
+		<td>Stefan Holmström</td>
+		<td></td>
+	        <td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Februari</td>
+		<td>26</td>
+		<td>Lördag</td>
+		<td>Stefan Holmström</td>
+		<td>Stefan Mattsson</td>
+		<td>Stefan Holmström</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Februari</td>
+		<td>27</td>
+		<td>Söndag</td>
+		<td>Stefan Holmström</td>
+		<td>Maria Cederberg</td>
+		<td>Bengt Ekwall</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Februari</td>
+		<td>28</td>
+		<td>Måndag</td>
+		<td>Göte Larsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<thead>
+	<tr>
+		<th scope="col">Månad</th>
+		<th scope="col">Datum</th>
+ 		<th scope="col">Dag</th>
+		<th scope="col">Israpport</th>
+		<th scope="col">ÅkgruppV</th>
+		<th scope="col">ÅkgruppIV</th>
+		<th scope="col">ÅkgruppIII</th>
+		<th scope="col">ÅkgruppII</th>
+		<th scope="col">Åkgrupp annan</th>
+	</tr>
+        </thead>	
+	<tr>    <td>Mars</td>
+		<td>1</td>
+		<td>Tisdag</td>
+		<td>Göte Larsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Mars</td>
+		<td>2</td>
+		<td>Onsdag</td>
+		<td>Göte Larsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		
+	</tr>
+	<tr>    <td>Mars</td>
+		<td>3</td>
+		<td>Torsdag</td>
+		<td>Göte Larsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Mars</td>
+		<td>4</td>
+		<td>Fredag</td>
+		<td>Göte Larsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Mars</td>
+		<td>5</td>
+		<td>Lördag</td>
+		<td>Göte Larsson</td>
+		<td>Sven Engberg</td>
+		<td>Stig Edner</td>
+		<td></td>
+		<td>Göte Larsson</td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Mars</td>
+		<td>6</td>
+		<td>Söndag</td>
+		<td>Göte Larsson</td>
+		<td>Lisa Beltzén Carin Petersson</td>
+		<td>Sven Engberg</td>
+		<td></td>
+		<td>Göte Larsson</td>
+		<td></td>
+	</tr>
+	<tr class="sidbrytning">
+	<tr>    <td>Mars</td>
+		<td>7</td>
+		<td>Måndag</td>
+		<td>Anders Westman</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+		
+	<tr>    <td>Mars</td>
+		<td>8</td>
+		<td>Tisdag</td>
+		<td>Anders Westman</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Mars</td>
+		<td>9</td>
+		<td>Onsdag</td>
+		<td>Anders Westman</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Mars</td>
+		<td>10</td>
+		<td>Torsdag</td>
+		<td>Anders Westman</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Mars</td>
+		<td>11</td>
+		<td>Fredag</td>
+		<td>Anders Westman</td>
+		<td></td>
+		<td>Lars Carlstedt</td>
+		<td>Sven Karlsson</td>
+		<td>Övernattning</td>
+		<td>Sven Karlsson</td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Mars</td>
+		<td>12</td>
+		<td>Lördag</td>
+		<td>Anders Westman</td>
+		<td></td>
+		<td>Lars Carlstedt</td>
+		<td>Sven Karlsson</td>
+		<td>Övernattning</td>
+		<td>Sven Karlsson</td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Mars</td>
+		<td>13</td>
+		<td>Söndag</td>
+		<td>Anders Westman</td>
+		<td>Maria Cederberg</td>
+		<td>Lars Carlstedt</td>
+		<td>Sven Karlsson</td>
+		<td>Övernattning</td>
+		<td>Sven Karlsson</td>
+	</tr>
+	<tr>    <td>Mars</td>
+		<td>14</td>
+		<td>Måndag</td>
+		<td>Göte Larsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Mars</td>
+		<td>15</td>
+		<td>Tisdag</td>
+		<td>Göte Larsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Mars</td>
+		<td>16</td>
+		<td>Onsdag</td>
+		<td>Göte Larsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Mars</td>
+		<td>17</td>
+		<td>Torsdag</td>
+		<td>Göte Larsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>    <td>Mars</td>
+		<td>18</td>
+		<td>Fredag</td>
+		<td>Göte Larsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Mars</td>
+		<td>19</td>
+		<td>Lördag</td>
+		<td>Göte Larsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr bgcolor="99FFFF">    
+		<td>Mars</td>
+		<td>20</td>
+		<td>Söndag</td>
+		<td>Göte Larsson</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</thead>
+		
+		
+</tbody>
+<tfoot>
+	<tr>
+		<td colspan="2">Senast uppdaterad: 23.01.2005</td>
+		<td></td>
+		<td></td>
+	        <td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</tfoot>
+</table>
+</body>
+</html>
+
