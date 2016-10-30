@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Thommy Johansson</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="stylesheet" href="bootstrap.css" media="screen">
+    <link rel="stylesheet" href="css/bootswatch.min.css">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../bower_components/html5shiv/dist/html5shiv.js"></script>
+      <script src="../bower_components/respond/dest/respond.min.js"></script>
+    <![endif]-->
+    <script>
+
+     var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-23019901-1']);
+      _gaq.push(['_setDomainName', "bootswatch.com"]);
+        _gaq.push(['_setAllowLinker', true]);
+      _gaq.push(['_trackPageview']);
+
+     (function() {
+       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     })();
+
+    </script>
+  </head>
+  <body>
+    <div class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a href="index.html" class="navbar-brand">Thommy Johansson</a>
+          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="navbar-collapse collapse" id="navbar-main">
+          <ul class="nav navbar-nav">
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="themes">Tema <span class="caret"></span></a>
+             <ul class="dropdown-menu" aria-labelledby="themes">
+                <li><a href="index.html">Default</a></li>
+                <li class="divider"></li>
+                <li><a href="harteknikett.html">Härskarteknik-Del 1</a></li>
+		<li><a href="hartekniktwo.html">Härskarteknik-Del 2</a></li>
+		<li><a href="harteknikthree.html">Härskarteknik-Del 3</a></li>
+		<li><a href="harteknikfour.html">Härskarteknik-Del 4</a></li>
+	    <li><a href="harteknikfive.html">Härskarteknik-Del 5</a></li>
+		 <li><a href="narcissism.html">Narcissism</a></li>
+		 <li><a href="narcissismen.html">Grandios - Självbild</a></li>
+		 <li><a href="nina-narcissism.html">Narcissistiskt samhälle - Nina Björk</a></li>
+		<li><a href="torget.html">Torget</a></li>
+                <li><a href="startbootstrap-landing-page/index.html">Landing</a></li>
+                <li><a href="startbootstrap-clean-blog/index.html">Blog</a></li>
+                <li><a href="fifafifa.html">Fifa - Ian Buruma</a></li>
+                <li><a href="journal/index.html">Journal</a></li>
+                <li><a href="navmenu/index.html">Konst</a></li>
+                <li><a href="aseberg.html">Skuldbelagd</a></li>
+                <li><a href="buruma-islam.html">Islam - Ian Buruma</a></li>
+				<li><a href="bostad.html">Riksbyggen</a></li>
+				 <li><a href="tabbar-testigen.html">Alla artiklar</a></li>
+              </ul>
+            </li>
+           
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container">
+
+      <div class="page-header" id="banner">
+        <div class="row">
+          <div class="col-lg-12 col-md-7 col-sm-6">
+            <h1><a name="Mamman">Narcissism</a>tecken</h1>
+            <p class="lead"></p>
+
+<h3>Men hos vissa personer är behovet så stort att de klassas som narcissister. Den kliniska benämningen är ”narcissistisk personlighetsstörning” och en sådan person är i längden olidlig att leva ihop med. Misstänker du att din partner har denna störning? Håll då utkik efter dessa 6 vanliga tecken som kännetecknar narcissister:</h3>
+
+<h3>1. De kräver bekräftelse hela tiden
+En narcissist behöver ständigt boosta sitt eget ego och mer eller mindre kräver komplimanger och uppskattning från andra, men verkar ändå aldrig bli nöjd.</h3>
+
+<h3>2. De överöser dig med uppmärksamhet (…i alla fall till en början)
+Narcissisten tar dig med storm, det kan vara svårt att värja sig mot den charmoffensiv som en person med narcissistisk personlighetsstörning öser över dig. Att bli uppvaktad i början av en romans är naturligtvis välkommet, men om personen i fråga blir nästan obehagligt enträgen och översvallande kan det vara läge att börja dra öronen åt sig.</h3>
+
+<h3>3. De saknar riktiga vänner
+Långa och djupa vänskapsrelationer finns knappt i narcissisternas värld. De är istället duktiga på att utnyttja människor och ser alltid till vad andra kan göra för dem. Deras vänner är ytliga och utbytbara, berättar den kliniska psykologen Albert Bernstein, som skrivit boken Emotional Vampires, för Women’s Health Magazine.</h3>
+
+<h3>4. De har aldrig fel
+Narcissister har en grandios självbild och överdriver ofta sin egen betydelse och kompetens. Att de skulle ha fel finns inte på världskartan och en narcissist ber i princip aldrig om ursäkt eller erkänner ett misstag.</h3>
+
+<h3>5. De är själviska
+Liksom psykopater har narcissister svårt för empati. Deras egna behov står ständigt i centrum och de bryr sig väldigt lite om andras önskemål.</h3>
+
+<h3>6. De är lättsårade
+Trots att de verkar så självsäkra är narcissister otroligt lättstötta. De tenderar att ta allt personligt och är dåliga på att acceptera ett nej. Narcissistens charmiga framtoning kan snabbt bytas ut mot ett enormt vredesmod om du trampat honom på tårna.</h3>
+
+<h3>Att lämna en narcissist</h3>
+<h3>Känner du igen din partner i ovanstående beskrivning? Då bör du allvarligt fundera på att göra slut – ju förr desto bättre, säger Albert Bernstein. Eftersom en narcissist har svårt att ta motgångar kan du förvänta dig en dramatisk reaktion på uppbrottet, men försök att inte fastna i hetsiga diskussioner eller falla för storslagna försök att få dig tillbaka, råder han. Det allra bästa är att snabbt få till ett tydligt avslut och sedan klippa banden.</h3>
+
+
+
+
+
+
+
+
+
+
+
+ </footer>
+	 <ul class="list-unstyled">
+              <li class="pull-right"><a href="#top">Back to top</a></li>
+
+ </div>
+ <script src="js/jquery-1.11.2.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/bootswatch.js"></script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3>Sigrid växte upp med en mamma som hon tror hade en narcissistisk störning. Först när hon valde att bryta kontakten vågade hon leva sitt eget liv fullt ut.</h3>
+<h3>– Äntligen är jag fri. Jag behöver inte vara en del av hennes narcissistiska bubbla längre.</h3>
+<h3>Sigrids mamma ville stå i centrum. Hon var alltid lite bättre och vackrare och såg ner på andra, även sina barn. Sigrid upplevde att hon bara betydde något när hon kunde visas upp.</h3>
+<h3>Vi möts på ett kafé i Malmö för att prata om det som under så många år var svårt att förstå. Sigrid har tagit med ett fotografi, och likheten med mamman är slående. På bilden vänder Sigrid bort blicken. Modern däremot strålar rätt in i kameran.</h3></div>
+
+<h3>– För min mor handlade allt om status, prestige och att stå i centrum. Hon iscensatte sitt liv, tog extremt mycket plats, var dramatisk och överdriven. Alla andra var lite fulare, lite sämre.</h3>
+<h3><a href="narcissism-intevaradär.html#Man">Läs också: Psykologen: ”Man ska helst inte vara där.”</a></h3>
+
+<img style="float: right; margin: 0px 0px 15px 15px;" src="img/narcissism.jpeg" width="684x430" />
+
+
+<h3>Det var först när Sigrid som vuxen läste om narcissistisk personlighetsstörning i DSM-manualen, en amerikansk handbok för psykiatriska sjukdomstillstånd, som hon förstod att modern faktiskt var sjuk. Och att hon själv blivit ett offer för hennes manipulation.</h3>
+<h3>För utåt sett såg allt fantastiskt ut. Fadern hade ett högstatusyrke, modern levde lyxhustruliv. Sigrids pappa kunde leka ibland, men var sällan hemma och inte särskilt känslomässigt närvarande.</h3>
+<h2>Vi barn var rekvisita, som märkesväskor som kunde visas upp. Jag minns inte att min mor någonsin kramade eller var engagerad i mig.</h2>
+
+<h3>– Vi barn var rekvisita, som märkesväskor som kunde visas upp. Jag minns inte att min mor någonsin kramade eller var engagerad i mig. Men det värsta för mig var inte att hon var frånvarande, utan det patologiska utnyttjandet av mig, att jag aldrig fick utrymme att utvecklas för den jag var, säger Sigrid.</h3>
+
+<h3>Att visa upp barnen blev en besatthet. Mamman ritade bilder åt den sexåriga dottern som hon kunde ta med till skolan och visa som sina egna. Då blev hon lite bättre än alla andra. När Sigrid haft tandställning i några år tvingade modern tandläkaren att plocka bort den.</h3>
+<img style="float: right; margin: 0px 0px 15px 15px;" src="img/narcissism-gren.jpeg" width="684x430" />
+
+
+<h3>– Den var ju så ful, men tänderna var inte färdigreglerade.</h3>
+
+<h3>Om inte Sigrid och hennes syskon skulle visas upp var de inte värda något, upplevde hon.</h3>
+
+<h3>– Min mamma älskade att ställa till med spektakulära middagar. Till oss gjorde hon samma mat, varje dag, i ett helt år.</h3>
+
+<h3><a href="narcissism-hustru.html#Hustrun">Läs också: Narcissistiska hustrun kunde inte visa verklig kärlek.</a></h3>
+
+<h3>Sigrid säger att modern aldrig visade empati, och hon kunde inte hantera besvärliga känslor hos andra – eller sig själv. Hon kritiserade och var småelak och kränkande. Någon hjälp sökte modern aldrig och därför finns det inte heller någon diagnos. Något som kanske hade hjälpt Sigrid att förstå sin egen uppväxt.</h3>
+<h3>En äldre släkting blev räddningen. Hon bodde hemma hos familjen och skötte det praktiska.</h3>
+<h3>– Hon var barnvakten. Hon älskade mig och jag älskade henne. Jag tror det gav mig stabilitet och tillit till mig själv, att det jag tänkte och kände var sant.</h3>
+<h3>Länge tänkte Sigrid att hon själv inte skulle ha några barn, men när hon brutit kontakten med modern kände hon att det kanske ändå var möjligt.</h3>
+<h3>Efter en strulig tonårstid, där Sigrid försökte bråka sig till uppmärksamhet, förstod hon att hon måste bort och att bara hon själv kunde se till att det blev så.</h3>
+<h3>– Jag var fruktansvärt arg på mina föräldrar. Men jag bestämde mig bara. Jag kunde inte vara kvar.</h3>
+<h3>Hon slutade skolka, fick bra betyg, och sökte utbildningen som hennes far krävde att hon skulle gå. Sigrid höll kontakten med föräldrarna, men begränsade den starkt. Hon hälsade aldrig på under högtider.</h3>
+
+<h3>– De skulle inte få förpesta dem.</h3>
+<h3><a href="narcissismen.html#Insikt">Läs också: Insikt först när den grandiosa självbilden spricker.</a></h3>
+
+<h3>Plötsligt en dag ändrades spelreglerna: Sigrids pappa dog och nu vändes uppmärksamheten mot dottern.</h3>
+
+<h3>– Plötsligt hade jag mamma i luren hela tiden. Det var ångestladdat och konstigt. När hon kom för att hälsa på ställde hon bara in väskorna för att dejta olika män.</h3>
+
+<h3>För att bearbeta sin frustration drev Sigrid en tid en självhjälpsgrupp för andra med liknande uppväxt. Att läsa mycket om diagnosen och vända sig utåt har hjälpt henne att komma vidare i livet, säger hon.</h3>
+
+<h2>    Jag visste inget om moderskap, men jag kände att jag kunde skaffa mig den erfarenheten, inte genom att bli en dotter, men genom att få bli mor till en dotter.</h2>
+
+<h3>Ett av de viktigaste besluten hon fattade var att konfrontera sin mamma: ”Mor, jag upplever att du har en personlighetsstörning”.</h3>
+
+<h3>Men när reaktionen blev oförståelse och Sigrid på allvar förstod att modern aldrig skulle kunna visa kärlek eller empati bestämde hon sig för att bryta kontakten. För gott.</h3>
+
+<h3>– Det var ett mycket bra beslut. Och jag har inte ångrat det.
+Läs också: Chatta med experten om narcissism.
+
+<h3>Fram till dess hade Sigrid varit bestämd på en punkt: egna barn skulle hon aldrig ha. Men tre månader efter att hon sagt upp kontakten var hon gravid.</h3>
+
+<h3>– Jag visste inget om moderskap, men jag kände att jag kunde skaffa mig den erfarenheten, inte genom att bli en dotter, men genom att få bli mor till en dotter, säger Sigrid.</h3>
+
+<h3>För första gången under intervjun trillar tårarna.</h3>
+
+<h3>I dag, efter många samtal och psykologhjälp, säger Sigrid att hon mår bra. Äntligen är ilskan borta.</h3>
+
+<h3>– Jag har gått från att alltid vara arg, alltid ha henne i huvudet, till att jag äntligen kan få vara huvudpersonen i mitt eget liv.</h3>
+<h3>• Sigrid heter egentligen något annat.</h3>
+<h3>Fler röster om narcissistiska föräldrar</h3>
+
+<h3>Inför den här reportageserien efterlyste vi drabbade på det nu stängda nätforumet om narcissism, Vuxnabarn.nu. Många ville dela med sig av sina erfarenheter. Här är ett par andra röster.</h3>
+<h3>"Det var hon som skulle blomma"</h3>
+
+<h3>"Jag var så styrd av min mamma att jag inte förstod att jag var utsatt förrän i 35-årsåldern. Hon tryckte ner mig på ett subtilt sätt, hon var mycket intelligent och hjälpsam, men det var hon som skulle blomma, vara den vackra och smarta. Jag fick alltid gråtattacker efter att ha träffat henne.</h3>
+<h3>Först när en terapeut sade att hon förmodligen lider av narcissism föll bitarna på plats och jag började avskärma mig. Jag har i hela mitt vuxna liv lidit av ångestproblematik och varit kroniskt deprimerad och sökt hjälp för det. Det är först de sista fem åren jag har slutat skämmas för att lämna ut mamma och säga att hon nog har den här störningen. Jag har varit så hårt hållen, och har känt mig illojal."</h3>
+<h3>Birgit, 49 år.</h3>
+
+<h2>"Plötsligt blev galenskapen begriplig"</h2>
+
+<h3>"Båda mina föräldrar har den här läggningen. När jag läste om narcissism var det en oerhörd lättnad. Plötsligt blev galenskapen och elakheterna mina föräldrar utsatt mig för begripliga. Jag kunde förstå mekanismerna och det blev lättare att komma ifrån skammen och förstå varför jag alltid känt mig otillräcklig och fel. Jag har haft så låg självkänsla och låtit mig utnyttjas.</h3>
+<h3>Senare i livet fick jag kontakt med ACA, en självhjälpsgrupp för vuxna barn till alkoholister och från andra dysfunktionella familjer. Och plötsligt blev jag hörd, jag fick berätta min historia, det var en jättelättnad och mer kraftfullt än alla psykologer.</h3> 
+<h3>I dag har jag kommit långt med mig själv. Jag har väldigt sporadisk kontakt med mamma, med min pappa har jag ingen kontakt. Det är ett framsteg att jag kan känna att de inte är mina föräldrar, utan mina förövare."</h3>
+<h3>Anna, 45 år.</h3>
+<h3>Text: Cecilia Nebel
+Publicerad 26 januari 2016 04.00 · Uppdaterad 27 januari 2016 15.07
+</h3> <p>Bilder: Julia Lindemalm</p>
+
+Här får du fler tips: Så tar du dig ur psykopatens grepp
