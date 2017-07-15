@@ -1,0 +1,151 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Thommy Johansson</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="stylesheet" href="bootstrap.css" media="screen">
+    <link rel="stylesheet" href="css/bootswatch.min.css">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../bower_components/html5shiv/dist/html5shiv.js"></script>
+      <script src="../bower_components/respond/dest/respond.min.js"></script>
+    <![endif]-->
+    <script>
+
+     var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-23019901-1']);
+      _gaq.push(['_setDomainName', "bootswatch.com"]);
+        _gaq.push(['_setAllowLinker', true]);
+      _gaq.push(['_trackPageview']);
+
+     (function() {
+       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     })();
+
+    </script>
+  </head>
+  <body>
+    <div class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a href="index.html" class="navbar-brand">Thommy Johansson</a>
+          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="navbar-collapse collapse" id="navbar-main">
+          <ul class="nav navbar-nav">
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="themes">Tema <span class="caret"></span></a>
+             <ul class="dropdown-menu" aria-labelledby="themes">
+                <li><a href="index.html">Default</a></li>
+                <li class="divider"></li>
+                <li><a href="harteknikett.html">Härskarteknik-Del 1</a></li>
+		<li><a href="hartekniktwo.html">Härskarteknik-Del 2</a></li>
+		<li><a href="harteknikthree.html">Härskarteknik-Del 3</a></li>
+		<li><a href="harteknikfour.html">Härskarteknik-Del 4</a></li>
+	    <li><a href="harteknikfive.html">Härskarteknik-Del 5</a></li>
+		 <li><a href="narcissism.html">Narcissism</a></li>
+		 <li><a href="narcissismen.html">Grandios - Självbild</a></li>
+		 <li><a href="nina-narcissism.html">Narcissistiskt samhälle - Nina Björk</a></li>
+		<li><a href="torget.html">Torget</a></li>
+                <li><a href="startbootstrap-landing-page/index.html">Landing</a></li>
+                <li><a href="startbootstrap-clean-blog/index.html">Blog</a></li>
+                <li><a href="fifafifa.html">Fifa - Ian Buruma</a></li>
+                <li><a href="journal/index.html">Journal</a></li>
+                <li><a href="navmenu/index.html">Konst</a></li>
+                <li><a href="aseberg.html">Skuldbelagd</a></li>
+                <li><a href="buruma-islam.html">Islam - Ian Buruma</a></li>
+				<li><a href="bostad.html">Riksbyggen</a></li>
+				 <li><a href="tabbar-testigen.html">Alla artiklar</a></li>
+              </ul>
+            </li>
+           
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container">
+
+      <div class="page-header" id="banner">
+        <div class="row">
+          <div class="col-lg-12 col-md-7 col-sm-6">
+            <h1>Kinhult lovade skattepengar</h1>
+            <p class="lead"></p>
+
+
+<h1>Kinhult (M) lovade skattepengar till ESS – fick direkt välbetalt jobb som lobbyist</h1>
+
+<h3>Skånes högsta politiker Pia Kinhult (M) lovade bort 800 miljoner kronor av Skånes pengar till ESS. Därefter gick hon direkt från politiken till ett välavlönat jobb på forskningsanläggningen.</h3>
+<h3>Det är inte olagligt - men korruptionsexperter ifrågasätter Kinhults snabba stolsbyte.</h3>
+<h3>När Pia Kinhult var ordförande för regionstyrelsen i Skåne våren 2014 lovade hon i förhandlingar med regeringens företrädare att Region Skåne skulle skänka 800 miljoner kronor till forskningsanläggningen European Spallation Source (ESS).</h3>
+<h3>Ett halvår senare förlorade Kinhult valet - och bytte direkt sida. Hon lämnade den organisation som lovat bort en mångmiljongåva och fick omedelbart anställning i den organisation som fått löftet.
+Skånes Pia Kinhult (M) skakar hand med utbildningsminister Jan Björklund (L) när de tar första spadtaget för forskningsanläggningen ESS den 2 september 2014.Bild: Håkan Röjder
+Trots att vi ställt flera frågor till Pia Kinhult om hennes snabba övergång till ESS vill hon inte med ett ord uttala sig om "saker som hanterats i min tidigare egenskap som regionstyrelseordförande".
+Svensk lagstiftning saknar karantänsregler för beslutsfattare som lämnar toppolitiken för poster i näringslivet. Likväl anser två av Sveriges ledande korruptionsexperter att Pia Kinhults snabba jobbyte väcker misstankar om vänskapskorruption och favorisering.</h3>
+<h3>– Behandlade ESS andra intressenter till den här tjänsten likvärdigt? Det är möjligt att Pia Kinhult är ytterst kompetent, men meriter ska gå före kontakter vid tillsättning av offentliga tjänster, säger professor Erik Amnå.</h3>
+<h3>– Jag tycker personligen att det är olämpligt att politiker så snabbt hoppar över till näringslivet utan en karantänsperiod. Det uppstår lätt misstankar om varför en viss politiker får ett attraktivt uppdrag, säger förre lagmannen Thorsten Cars.</h3>
+<h3>Pia Kinhult var 2007-2010 regionråd och ordförande i Regionala utvecklingsnämnden med ansvar för frågor som rörde ESS. Därefter var hon ordförande i regionstyrelsen fram till hösten 2014.</h3>
+<h3>Torsdagen den 23 oktober 2014 ledde hon sitt sista möte för regionstyrelsen. Fyra dagar senare, på måndagsmorgonen, förkunnade Pia Kinhult att hon börjat ett nytt jobb som strategisk rådgivare för ESS.</h3>
+<h3>"En möjlighet som denna var omöjlig att tacka nej till. Det är en unik och spännande process där jag hoppas att mina erfarenheter och nätverk kan komma till nytta för ESS och Europa", sade Kinhult i det officiella pressmeddelandet.</h3>
+<h3>Nu jobbar Kinhult sedan två år på ESS som kontaktperson gentemot politiker och tjänstemän på regeringskanslierna i Sverige och Danmark. I sin nya roll tjänar Kinhult mer än under sin tid som politiker. Förra året hade Kinhult en taxerad inkomst på 99 000 kronor i månaden.</h3>
+<h3>Pia Kinhult (M) inför sista mötet med regionstyrelsen den 23 oktober 2014. Fyra dagar senare avslöjas att hon börjar jobba som strategisk rådgivare för ESS.Bild: Niklas Gustavsson
+På sin nya tjänst har Kinhult även kontakt med sina gamla kolleger på Region Skåne. I höst har hon lobbat för att Region Skåne ska knyta närmare kontakt med regionen Bilbao i norra Spanien, som är viktig för ESS.</h3>
+<h3>I ett mejl direkt till regionstyrelsens ordförande Henrik Fritzon (S) försöker Pia Kinhult övertala honom att bjuda in baskerna till ett officellt besök, eftersom det skulle "smörja marken" för ESS.
+"Jag kan förstå om Bilbao kanske inte funnits i era planer och strategier kring regional samverkan, men jag vädjar till er att snabbt tänka in dem. En inbjudan till Skåne nu under hösten vore toppen", skriver Kinhult i mejlet.</h3>
+<h3>Pia Kinhult (M) på hedersplats längst fram till höger när ESS-bygget startar den 2 september 2014. Intill henne sitter från vänster: Carmen Vela Olmo, statssekreterare på spanska näringsdepartementet, Sveriges utbildningsminister Jan Björklund (L), Danmarks forskningsminister Sofie Carsten Nielsen (RV) samt Peter Honeth, statssekreterare på utbildningsdepartementet.Bild: Håkan Röjder</h3>
+<h3>Som EES-anställd har Pia Kinhult också agerat för att ESS ska få långtgående skattelättnader.</h3>
+<h3>Den 5 mars i fjol besökte Pia Kinhult finansdepartementet i Stockholm för att argumentera för att utländska medborgare som jobbar på forskningsanläggningen helt ska slippa inkomstskatt.</h3>
+<h3>I så fall skulle Region Skåne, Lund och andra skånska kommuner gå miste om hundratals miljoner de närmaste åren. Samtidigt krävde hon att de ESS-anställda får tillgång till fri sjukvård i Skåne.
+Detta framgår av Kinhults Power Point-presentation under mötet. Under rubriken "Bäst för ESS" radade hon upp sex förslag på skattelättnader.</h3>
+<h5>På det mötet propagerade alltså Pia Kinhult för att ESS ska betala mindre skatt till svenska kommuner och landsting. Nästa dag satt hon på ett annat möte, där hon representerade just Sveriges kommuner och landsting (SKL), där hon var invald i styrelsen som politiker. Det är intresseorganisationen för just dem som skulle förlora pengar på skattelättnaderna.</h3>
+<h3>Pia Kinhult har numera lämnat styrelsen för SKL. I våras valdes hon till ordförande för Skattebetalarnas förening. Hennes främsta uppdrag där är att arbeta "för lägre skatter och minskat slöseri med skattepengar".</h3>
+<h3>Som Skånes högsta politiker lovade Pia Kinhult (M) att Region Skåne skulle skänka 800 miljoner kronor till forskningsanläggningen ESS. Sedan bytte hon direkt sida - och tjänar ännu bättre som hög tjänsteman på ESS. Ett av uppdragen: se till att de ESS-anställda slipper betala skatt till Region Skåne.Bild: Niklas Gustavsson
+Pia Kinhults agerande är knappast olagligt. Enligt Erik Amnå och Thorsten Cars är hennes stolsbyte likväl en delikat fråga.
+Erik Amnå är professor i statskunskap vid Örebro universitet och ledamot i svenska grenen av Transparency International, som arbetar mot korruption. Han står för en sträng syn på Kinhults rollbyte:
+– Det här handlar inte bara om hur en enskild person och ett enskilt företag agerar. Så snart det kan finnas misstankar om korruption spiller det över på andra, säger Amnå.</h3>
+<h3>Också förre lagmannen Thorsten Cars, som i nitton år var ordförande i Institutet mot mutor, anser att Pia Kinhults och andra politikers snabba jobbyte kan skada hela politikerkåren.</h3>
+<h3>– Även om det inte finns misstankar om något otillbörligt så skadas förtroendet för hela den offentliga förvaltningen, säger Cars.
+Pia Kinhult har tackat nej till att svara på frågor om sin övergång från politiken till ESS. Hon hänvisar dock till en intervju i tidningen Universitetsläraren, där hon säger att hon inte ser det som känsligt:</h3>
+<h3>– Man kan alltid konspirera. Men ESS var aldrig inblandat i frågan om Region Skånes bidrag. Det är två helt skilda processer, bidraget från regionen och min anställning, säger Pia Kinhult till Universitetsläraren.</h3>
+<h3>Sydsvenskan och HD har ställt en rad frågor till Pia Kinhult om hennes jobbyte. Men hon har valt att inte besvara dem. "Jag har inget ytterligare att tillägga", skriver hon i sitt svarsmejl.
+Regionstyrelsens nuvarande ordförande Henrik Fritzon (S) har inga synpunkter på Pia Kinhults snabba byte från regionråd till ESS-tjänsteman:</h3>
+<h3>– Det har jag inga kommentarer till. Jag vet inget om hennes arbetsuppgifter på ESS, säger han.</h3>
+<h3>FAKTA/Så blir 800 miljoner en dryg miljard</h3>
+<ul>
+<li>• Region Skåne lånade i somras 800 miljoner kronor för att betala sitt bidrag till ESS. Hur kan den summan springa upp till en miljard?</li>
+<li>• Med dagens minusränta drar ett sådant lån ingen stor räntekostnad, men så förblir det knappast under de 25 år lånet löper. Enligt Riksbankens prognos går minusräntan över till plus under 2019.</li>
+<li>• Region Skånes finanschef Lennart Henricsson har räknat på den totala räntekostnaden för lånet utifrån antagandet att genomsnittsräntan ligger på 1-4 procent under lånets 25-åriga löptid.</li>
+<li>• Enligt finanschefen kostar regionens medfinansiering av ESS 1 008 000 000 kronor om snitträntan blir 2 procent. Om snitträntan är 4 procent blir regionens totala kostnad 1 216 000 000 kronor.</li>
+</ul>
+
+
+
+
+
+<img style="float: right; margin: 0px 0px 15px 15px;" src="img/nina.jpg" width="612x344" />
+
+
+                     
+
+
+
+
+
+</footer>
+	 <ul class="list-unstyled">
+              <li class="pull-right"><a href="#top">Back to top</a></li>
+
+ </div>
+ <script src="js/jquery-1.11.2.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/bootswatch.js"></script>
+  </body>
+</html>
